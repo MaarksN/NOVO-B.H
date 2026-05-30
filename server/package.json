@@ -1,0 +1,19 @@
+{
+  "name": "birth-hub-360-server",
+  "version": "1.2.0",
+  "description": "API e servidor estático sem dependências externas para a plataforma Birth Hub 360.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "birth-hub-360",
+    "sales",
+    "crm",
+    "saas"
+  ],
+  "author": "Birth Hub 360",
+  "license": "UNLICENSED",
+  "type": "commonjs"
+}
