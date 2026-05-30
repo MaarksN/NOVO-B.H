@@ -1,0 +1,14 @@
+node_modules/
+.env
+.DS_Store
+server/node_modules
+node_modules
+database.sqlite
+*.log
+database.json
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar

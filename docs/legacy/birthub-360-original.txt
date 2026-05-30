@@ -1,0 +1,1881 @@
+Adicione todos esses cargos sem os números Adicione 15 nomes de ferramentas de ia indispensáveis para cada cargo . Ferramentas que serão criadaa pelo gemini.
+
+Estratégia e Operações (C-Level e Ops) Chief Revenue Officer (CRO) [1] Diretor Comercial (CSO / Head of Sales) [2] Gerente de Revenue Operations (RevOps) [3] Analista de Sales Operations (Sales Ops) [4] Analista de Inteligência Comercial / de Mercado [2] Analista de Sales Enablement (Capacitação de Vendas) [5] Business Partner (BP) de Vendas [6] Pré-Vendas (Prospecção e Qualificação) LDR (Lead Development Representative) [7] SDR (Sales Development Representative) [8] BDR (Business Development Representative) [9] Vendas (Fechamento e Negociação) Executivo de Contas (Account Executive / Closer) [10] Vendedor Interno (Inside Sales Rep) [11] Vendedor Externo / de Campo (Field Sales Rep) [12] Key Account Manager (KAM) [13] Consultor de Vendas [14] Representante Comercial Autônomo (RCA) [15] Pós-Vendas e Relacionamento Customer Success Manager (CSM) [16] Account Manager (Gerente de Contas - Foco em Renovação/Upsell) [17] Gerente de Onboarding / Implantação [18] Varejo e Trade Marketing Gerente de Trade Marketing [19] Analista de Trade Marketing [20] Promotor de Vendas [21] Repositor (Apoio logístico no PDV) [22] Gestão e Liderança de Equipe Team Leader / Coordenador de Vendas [2] Gerente Comercial / de Vendas [23] Interfaces Híbridas Growth Hacker (Foco em Vendas/Aquisição) [24]
+
+
+​Estratégia e Operações (C-Level e Ops)​Chief Revenue Officer (CRO)​RevenuePredictor (Previsão de receita)​MarketTrend Analyzer (Análise de mercado)​ChurnRisk Macro (Risco de perda global)​PricingOptimizer (Otimização de preços)​SalesCost Auditor (Auditoria de custos)​GlobalAlignment AI (Alinhamento de metas)​BurnRate Monitor (Monitoramento de gastos)​SynergyDetector (Sinergia entre áreas)​Stakeholder Insight (Visão de investidores)​Competitor Radar (Monitor de concorrência)​ExpansionMap AI (Mapa de expansão)​TalentROI Tracker (Retorno sobre equipe)​BrandEquity Gauge (Valor de marca)​PolicyCompliance AI (Conformidade ética)​StrategySim (Simulador de cenários)​Diretor Comercial (CSO / Head of Sales)​SalesForce Commander (Gestão de força)​PipelineIntegrity AI (Saúde do funil)​QuotaAllocator (Distribuição de metas)​DealVelocity Tracker (Velocidade de fechamento)​SalesPlaybook Architect (Criação de processos)​ForecastRefiner (Refino de previsões)​IncentiveDesigner (Planos de comissão)​HighStakes Advisor (Conselho em grandes contas)​RegionalTrend Spotter (Tendências regionais)​SalesCulture Gauge (Clima da equipe)​PartnerNetwork AI (Gestão de parceiros)​DiscountManager (Controle de margem)​WinLoss Analyst (Análise de perdas/ganhos)​ProspectPrioritizer (Prioridade de foco)​LeadershipMentor AI (Treino de líderes)​Gerente de Revenue Operations (RevOps)​StackIntegrator (Integração de ferramentas)​DataCleanse Bot (Limpeza de CRM)​LeadRoute AI (Distribuição de leads)​FunnelFlow Analyzer (Fluxo de conversão)​OpsEfficiency Gauge (Medição de eficiência)​AttributionModeler (Modelagem de crédito)​RevenueLeak Detector (Detecção de perdas)​TechAdopt Monitor (Adoção de software)​SalesCycle Clock (Tempo de ciclo)​FeedbackLoop AI (Coleta de feedbacks)​ProcessAutomator (Automação de tarefas)​ResourceAllocator (Alocação de recursos)​CrossDept Sync (Sincronia entre times)​KPI Dashboarder (Criação de métricas)​ErrorPredict AI (Previsão de erros operacionais)​Analista de Sales Operations (Sales Ops)​ReportBuilder Pro (Gerador de relatórios)​CRM Guardian (Fiscal de dados)​LeadSource Auditor (Origem de leads)​PerformanceTracker (Monitor de vendas)​ToolConfig AI (Configuração de ferramentas)​ForecastAssistant (Apoio na previsão)​TerritoryMapper (Divisão de territórios)​DataEntry Automator (Entrada de dados)​SalesIncentive Calc (Cálculo de bônus)​ActivityLog AI (Registro de atividades)​AdminWorkflow Bot (Fluxos administrativos)​DashboardUpdater (Atualização de painéis)​TicketResolver (Suporte interno)​QueryMaster (Busca avançada de dados)​SpreadsheetWizard (Automação de planilhas)​Analista de Inteligência Comercial / de Mercado​MarketScreener (Varredura de mercado)​CompetitorScraper (Monitor de rivais)​TrendForecaster (Previsão de tendências)​ICP Explorer (Perfil de cliente ideal)​TAM-SAM Estimator (Tamanho de mercado)​SentimentAnalyst (Sentimento do cliente)​PricingWatcher (Preços da concorrência)​SWOT Generator (Análise estratégica)​EconomicSignal (Sinais econômicos)​ConsumerBehavior AI (Comportamento)​GeographicInsight (Dados geográficos)​ProductGap Finder (Oportunidades de produto)​NewsAlert AI (Alertas do setor)​SegmentPredictor (Previsão de segmentos)​Benchmarking AI (Comparação setorial)​Analista de Sales Enablement (Capacitação de Vendas)​TrainingGen (Criação de treinamentos)​PitchCoach AI (Treino de discurso)​ContentCurator (Curadoria de materiais)​OnboardingBot (Apoio a novos contratados)​ObjectionLibrary (Banco de objeções)​RoleplaySim (Simulador de vendas)​SkillGap Analyzer (Faltas técnicas)​KnowledgeBank AI (Base de conhecimento)​VideoFeedback AI (Análise de vídeo)​QuizMaker Pro (Avaliações de equipe)​PlaybookUpdater (Atualização de guias)​SalesAsset Tracker (Uso de materiais)​BestPractice Bot (Divulgação de sucessos)​CertificationAI (Gestão de certificados)​LearningPath Pro (Trilhas de ensino)​Business Partner (BP) de Vendas​TeamHealth Monitor (Saúde do time)​ConflictResolver (Mediação de conflitos)​TalentSourcer (Busca de talentos)​PerformanceAdvisor (Conselho técnico)​CareerPath Planner (Planos de carreira)​HiringAssistant (Apoio em entrevistas)​CulturePulse AI (Clima organizacional)​FeedbackSynthesizer (Resumo de retornos)​TurnoverPredictor (Previsão de saídas)​SalaryBenchmarker (Comparação salarial)​EngagementBooster (Engajamento)​LeadershipShadow (Acompanhamento de líderes)​DiversityChecker (Diversidade e inclusão)​StressAlert AI (Nível de estresse)​TeamSync Pro (Sincronia de RH e Vendas)​Pré-Vendas (Prospecção e Qualificação)​LDR (Lead Development Representative)​ListScraper Pro (Extração de listas)​DataVerifier (Verificador de contatos)​LeadCategorizer (Categorização)​SocialProfile AI (Busca em redes)​DomainResearcher (Pesquisa de empresas)​EmailValidator (Limpeza de e-mails)​BulkEnricher (Enriquecimento de dados)​WebIntent Signal (Sinais de navegação)​CompanyScanner (Raio-X de contas)​TechStack Detector (Tecnologias usadas)​LeadPrioritize AI (Rank de leads)​FormAnalyzer (Análise de formulários)​NewsTracker Pro (Notícias de prospectos)​ContactFinder (Busca de decisores)​CRM-Importer (Importação direta)​SDR (Sales Development Representative)​GhostWriter AI (Redação de e-mails)​DialAssistant (Assistente de ligação)​ObjectionHandler (Quebra de objeções)​CadenceOptimizer (Melhor hora/canal)​PersonaMimic (Adaptação de tom)​VideoIntro AI (Geração de vídeos)​MeetingScheduler (Agendamento rápido)​SocialSeller Bot (Interação em redes)​FollowUp Timer (Lembretes inteligentes)​CallSummarizer (Resumo de chamadas)​PitchRefiner (Melhoria de roteiro)​RejectionLearner (Análise de negativas)​IntentSignal AI (Identificação de interesse)​VoiceTone Analyst (Análise de voz)​GiftSender Pro (Envio de mimos)​BDR (Business Development Representative)​StrategicAccount AI (Contas estratégicas)​OutboundGenius (Campanhas frias)​RelationshipGraph (Mapa de conexões)​MarketEntry Advisor (Entrada em nichos)​EventProspector (Prospecção em eventos)​VerticalDeepDive (Pesquisa setorial)​ReferralHunter (Busca de indicações)​AccountInsight Pro (Resumo de contas)​DecisionMap AI (Mapa de decisores)​ColdCall Pilot (Piloto de ligações)​PersonalizedSnippet (Trechos de e-mail)​PainPoint Detector (Filtro de dores)​HighValue Lead AI (Leads de alto valor)​Collaboration Bot (Sincronia com Vendas)​MultiChannel Sync (Sincronia de canais)​Vendas (Fechamento e Negociação)​Executivo de Contas (Account Executive / Closer)​DealStrategy AI (Estratégia do negócio)​NegotiationAssistant (Dicas em tempo real)​ContractReviewer (Revisão de contratos)​ValueProp Builder (Proposta de valor)​ROI Calculator AI (Cálculo de retorno)​ClosingSignal (Sinais de compra)​MultiStakeholder Map (Mapa de influentes)​ProposalGen (Gerador de propostas)​DiscountImpact AI (Impacto do desconto)​ObjectionDestroyer (Banco de argumentos)​SolutionDesigner (Desenho de solução)​ForecastValidator (Validação de data)​FollowUp Persuader (Insistência elegante)​ExecutiveSync AI (Sincronia com diretores)​DealNurturer (Nutrição de negócios)​Vendedor Interno (Inside Sales Rep)​ScreenShare Guide (Guia de demonstração)​RapidReply AI (Respostas instantâneas)​VirtualCloser (Assistente de vídeo)​ChatbotHandover (Transição de chat)​DemoScript AI (Roteiro dinâmico)​PriceQuoter (Cotação imediata)​FeatureMatcher (Combinação de funções)​UrgencyCreator (Gatilhos de urgência)​SocialProof Bot (Envio de cases)​TimeZone Optimizer (Ajuste de horário)​RecordingAnalyst (Análise de reuniões)​QuickLink AI (Links de checkout)​UpsellSpotter (Sugestão de extras)​TrustBuilder Pro (Geração de confiança)​LeadRecycle (Recuperação de leads)​Vendedor Externo / de Campo (Field Sales Rep)​RouteOptimizer (Melhor trajeto)​NearMe Prospector (Prospectos próximos)​CheckIn/Out AI (Gestão de visitas)​BusinessCard Scanner (Digitalização)​OfflineSync Bot (Dados sem internet)​ExpenseReporter (Relatório de gastos)​FieldBriefing (Resumo pré-visita)​GeoZone Alert (Alertas de região)​LocalCompetitor AI (Rivais locais)​VisitLog Voice (Log por comando de voz)​AppointmentManager (Gestão de agenda)​SampleTracker (Controle de amostras)​PhotoEvidence AI (Registros de campo)​MobileCRM Expert (CRM adaptado)​EventNavigator (Guia de feiras)​Key Account Manager (KAM)​StrategicPlan AI (Planos de conta)​WhiteSpace Finder (Oportunidades internas)​RelationshipHealth (Saúde da relação)​ExecutiveLiaison (Conexão executiva)​AccountGrowth Pro (Previsão de expansão)​RiskRadar AI (Risco de saída)​JointAction Planner (Planos conjuntos)​QBR Builder (Revisões trimestrais)​CustomOffer AI (Ofertas sob medida)​StakeholderTracker (Troca de cargos)​ValueDelivery Gauge (Entrega de valor)​CrossSell Engine (Motor de cross-sell)​LoyaltyMonitor (Nível de fidelidade)​HistoryInsight (Resumo de histórico)​ReferralMultiplier (Pedido de indicações)​Consultor de Vendas​ProblemDiagnoser (Diagnóstico de dores)​SolutionArchitect (Arquiteto de solução)​IndustryInsights (Dados do setor)​ComplianceChecker (Regras e leis)​MethodologyExpert (Métodos de venda)​TechnicalBridge (Conexão técnica)​CaseStudy Matcher (Cases específicos)​ROI Modeler Pro (Modelagem financeira)​WorkshopFacilitator (Ajuda em reuniões)​FutureState Map (Cenário futuro)​RiskMitigator AI (Mitigação de riscos)​GapAnalysis Pro (Análise de lacunas)​EducationBot (Educação do cliente)​StrategicAdvisor (Conselho de negócio)​TransformationAI (Guia de mudança)​Representante Comercial Autônomo (RCA)​MultiBrandManager (Gestão de pastas)​CommissionTracker (Acompanhamento)​SelfBrand AI (Marketing pessoal)​PortfolioOptimizer (Melhores produtos)​TaxAssistant AI (Controle tributário)​IndependentPipeline (Funil próprio)​ClientRetention Bot (Retenção)​CatalogGen (Catálogos digitais)​ProspectFinder (Busca de clientes)​OrderPlacer AI (Envio de pedidos)​TerritoryProtect (Proteção de área)​PaymentCollector (Cobradores)​BusinessSchedule (Organização)​SmartInventory (Sugerir estoque)​ContractVault (Cofre de contratos)​Pós-Vendas e Relacionamento​Customer Success Manager (CSM)​HealthScore AI (Saúde do cliente)​AdoptionMonitor (Uso do produto)​SuccessPlan AI (Planos de sucesso)​ChurnPreventer (Alerta de cancelamento)​ExpansionSignal (Sinais de upsell)​UserFeedback Bot (Coleta de opiniões)​FeatureEnthusiast (Incentivo de uso)​TicketAlert AI (Alertas de suporte)​CommunityManager (Gestão de grupos)​RenewalAssistant (Apoio na renovação)​AdvocateFinder (Busca de promotores)​MilestoneTracker (Marcos de sucesso)​SentimentTracker (Clima nas reuniões)​PlaybookExecution (Guia de ações)​OutcomeReporter (Relatório de ganhos)​Account Manager (Gerente de Contas - Foco em Renovação/Upsell)​UpsellEngine (Sugestão de upgrade)​RenewalRisk AI (Risco de renovação)​CrossSell Radar (Produtos cruzados)​ContractExpiring (Avisos de vencimento)​ExpansionNegotiator (Dicas de preço)​PortfolioHealth (Saúde da carteira)​WalletShare AI (Parte do investimento)​ClientReferral AI (Busca de indicação)​MultiYear Planner (Planos plurianuais)​ValueReview AI (Revisão de valor)​RetentionTactician (Táticas de retenção)​UpgradeAssistant (Apoio técnico)​BillingSupport AI (Ajuda financeira)​FeatureRequest Bot (Pedidos de função)​SatisfactionSync (Sincronia de NPS)​Gerente de Onboarding / Implantação​OnboardArchitect (Desenho de jornada)​TimeToValue AI (Aceleração de valor)​ImplementationBot (Guia passo a passo)​TrainingAutomation (Ensino guiado)​SetupChecker (Validação técnica)​EngagementBooster (Incentivo inicial)​OnboardingSurvey (Pesquisa de entrada)​GoalSetter AI (Definição de metas)​ProgressTracker (Monitor de progresso)​HandoverExpert (Passagem de bastão)​BarrierDetector (Detecção de entraves)​WelcomeContent AI (Materiais de boas-vindas)​SkillAssessor (Avaliação de usuário)​ProjectSync AI (Gestão de projetos)​QuickStart Guide (Guia rápido)​Varejo e Trade Marketing​Gerente de Trade Marketing​ChannelPerformance (Analise de canais)​CampaignROI AI (Retorno de ações)​ShelfShare Monitor (Share de gôndola)​StoreRanker (Ranking de lojas)​BudgetOptimizer (Verba de trade)​TradePolicy Guard (Regras comerciais)​BrandExecution AI (Execução de marca)​PromoEffectiveness (Efeito de promos)​RetailTrends AI (Tendências de varejo)​InventoryInsight (Visão de estoque)​MerchandisingPlanner (Planejamento)​PricingConsistency (Preço sugerido)​StoreTraffic AI (Fluxo de clientes)​DisplayIncentive (Bônus por exposição)​CategoryManager AI (Gestão de categoria)​Analista de Trade Marketing​DataCollector Pro (Coleta de campo)​StoreAudit AI (Auditoria de lojas)​POS-Material Tracker (Materiais PDV)​ExecutionAnalyst (Análise de campo)​PromotionValidator (Validação)​StockOut Predictor (Previsão de rutura)​PlanogramChecker (Checagem de foto)​SalesHeatmap (Mapa de calor)​FeedbackSynthesizer (Dados de campo)​CampaignLauncher (Lançamento)​OrderRecommender (Sugestão de pedido)​CompetitorPOS Watch (Rivais no PDV)​ExpenseManager (Gastos de trade)​TrainingAsset AI (Materiais promotor)​DashBuilder Retail (Painéis)​Promotor de Vendas​RouteAssistant (Caminho inteligente)​ShelfSpace AI (Foto de gôndola)​PriceSurvey Bot (Coleta de preços)​InventoryChecker (Conferência)​DisplayScore AI (Nota de exposição)​BreakageReporter (Avarias)​MerchandisingGuide (Dicas visuais)​CompetitorAlert (Ações de rivais)​StockRefill AI (Sugestão de reposição)​TimeTracker (Gestão de tempo)​SalesSpeech Pro (Pitch no PDV)​ProductDemo AI (Guia de amostras)​StoreManager Link (Falar com gerente)​POP-Installer (Guia de montagem)​OrderTrigger (Alerta de compra)​Repositor (Apoio logístico no PDV)​FirstInFirstOut AI (Controle de validade)​StockAlert (Alerta de falta)​PalletOptimizer (Organização)​SpaceMaximizer (Aproveitamento)​BarcodeScanner Pro (Leitura de código)​LabelChecker AI (Preços corretos)​BackroomLocator (Achar no estoque)​RestockTimer (Cronograma)​DamageReport AI (Produtos ruins)​DeliveryReceiver (Conferência)​WasteReducer (Redução de perdas)​SafetyGuard AI (Segurança física)​HeavyLift Assistant (Dicas ergonômicas)​QuickSync Store (Sincronia com loja)​CleanlinessCheck (Padrão de limpeza)​Gestão e Liderança de Equipe​Team Leader / Coordenador de Vendas​Leaderboard AI (Painel de ranking)​CoachingInsights (Dicas de treino)​CallListener AI (Escuta de chamadas)​MotivationPulse (Clima do time)​TargetForecaster (Previsão de meta)​ActivityAuditor (Foco da equipe)​MeetingFacilitator (Guia de reuniões)​TalentDeveloper (Plano de ensino)​ResourceSync (Distribuição de carga)​PolicyEnforcer (Garantia de regras)​GoalAlignment Bot (Metas individuais)​ConflictMediator (Mediação)​RecognitionBot (Elogios e prêmios)​PerformanceFixer (Plano de melhoria)​HiringFilter AI (Filtro de candidatos)​Gerente Comercial / de Vendas​RevenueCommander (Comando de receita)​StrategicForecast (Previsão de longo prazo)​BudgetArchitect (Gestão de verbas)​SalesModeler (Modelagem comercial)​MarketCoverage AI (Cobertura de área)​PartnerStrategist (Planos de parceiros)​HighLevel Coach (Treino de líderes)​CulturalEngine (Cultura de vendas)​GlobalKPI Tracker (Métricas globais)​DealInspector (Inspeção de negócios)​SalesEfficiency AI (Eficiência)​ChangeManager (Gestão de mudanças)​CrossDept Liaison (Conexão interna)​ExecutivePresenter (Resumo para C-Level)​RiskShield AI (Proteção de riscos)​Interfaces Híbridas​Growth Hacker (Foco em Vendas/Aquisição)​ExperimentTracker (Gestão de testes)​AcquisitionLoop AI (Ciclo de ganhos)​FunnelHacker (Análise de funil)​ViralCoefficient (Calculo viral)​LandingPage Optimizer (Otimização)​CAC-LTV Predictor (Saúde financeira)​AudienceSegmenter (Segmentação)​AutomationEngine (Automações)​ContentViral AI (Conteúdo que vende)​ReferralSystem AI (Programas de convite)​DataScientist Bot (Análise de dados)​ProductLed Growth (Crescimento via produto)​ChannelExplorer (Novos canais)​UX-Sales Sync (Interface e vendas)​RetentionLab AI (Laboratório de retenção)
+
+ADICIONE TODOS ESSES CARGOS A FERAMENTA Estratégia e Operações (C-Level e Ops)
+
+Chief Revenue Officer (CRO)
+
+Diretor Comercial (CSO / Head of Sales)
+
+Gerente de Revenue Operations (RevOps)
+
+Analista de Sales Operations (Sales Ops)
+
+Analista de Inteligência Comercial / de Mercado
+
+Analista de Sales Enablement (Capacitação de Vendas)
+
+Business Partner (BP) de Vendas
+
+Pré-Vendas (Prospecção e Qualificação)
+
+LDR (Lead Development Representative)
+
+SDR (Sales Development Representative)
+
+BDR (Business Development Representative)
+
+Vendas (Fechamento e Negociação
+
+Executivo de Contas (Account Executive / Closer)
+
+Vendedor Interno (Inside Sales Rep)
+
+Vendedor Externo / de Campo (Field Sales Rep)
+
+Key Account Manager (KAM)
+
+Consultor de Vendas
+
+Representante Comercial Autônomo (RCA)
+
+Pós-Vendas e Relacionamento
+
+Customer Success Manager (CSM)
+
+Account Manager (Gerente de Contas - Foco em Renovação/Upsell)
+
+Gerente de Onboarding / Implantação
+
+Varejo e Trade Marketing
+
+Gerente de Trade Marketing
+
+Analista de Trade Marketing
+
+Promotor de Vendas
+
+Repositor (Apoio logístico no PDV)
+
+Gestão e Liderança de Equipe
+
+Team Leader / Coordenador de Vendas
+
+Gerente Comercial / de Vendas
+
+Interfaces Híbridas
+
+Growth Hacker (Foco em Vendas/Aquisição)4
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<script src="https://unpkg.com/lucide@latest"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+<style>
+    /* =============================================
+     * Estilos Birth Hub 360 (Baseado no Site Oficial)
+     * ============================================= */
+    :root {
+        --font-main: 'Poppins', sans-serif;
+        --radius-card: 0.75rem; /* 12px */
+        --radius-button: 0.5rem; /* 8px */
+        --transition-main: .3s cubic-bezier(.4,0,.2,1);
+
+        /* Cores do Guia de Estilo do Site */
+        --bg-main: #111827; /* bg-gray-900 */
+        --bg-content: #1f2937; /* bg-gray-800 */
+        --text-headings: #ffffff;
+        --text-body: #d1d5db; /* text-slate-300 */
+        --text-muted: #9ca3af; /* text-slate-400 */
+        --accent-indigo: #4f46e5;
+        --accent-violet: #8b5cf6;
+        --accent-lavender: #a78bfa;
+        --accent-amber: #facc15;
+        --border-color: #374151; /* bg-gray-700 */
+    }
+
+    html { 
+        scroll-behavior: smooth; 
+    }
+
+    body {
+        font-family: var(--font-main);
+        background-color: var(--bg-main);
+        color: var(--text-body);
+        transition: background-color var(--transition-main), color var(--transition-main);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: var(--font-main);
+        font-weight: 700;
+        color: var(--text-headings);
+    }
+    
+    .text-gradient {
+        background: linear-gradient(90deg, var(--accent-indigo), var(--accent-violet), var(--accent-lavender), var(--accent-amber));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+    }
+
+    /* Card Styles */
+    .card, .tool-card, .entry-card {
+        background-color: var(--bg-content);
+        border: 1px solid var(--border-color);
+        border-radius: var(--radius-card);
+        transition: all var(--transition-main);
+        box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+    }
+
+    .card:hover, .tool-card:hover, .entry-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 0 25px rgba(167, 139, 250, 0.15);
+        border-color: var(--accent-violet);
+    }
+
+    /* Button Styles */
+    .btn-primary {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6em;
+        font-weight: bold;
+        padding: 0.75em 1.5em;
+        background-color: var(--accent-amber);
+        color: #111827;
+        border: none;
+        border-radius: var(--radius-button);
+        cursor: pointer;
+        transition: all 0.3s ease-out;
+        box-shadow: 0 4px 10px rgba(250, 204, 21, 0.1);
+    }
+    .btn-primary:hover {
+        background-color: #fde047; /* amber-300 */
+        transform: scale(1.05);
+        box-shadow: 0 6px 15px rgba(250, 204, 21, 0.2);
+    }
+
+    /* View Transitions */
+    .view {
+        display: none;
+        opacity: 0;
+        animation: fadeIn 0.6s ease forwards;
+    }
+    @keyframes fadeIn {
+        to { opacity: 1; }
+    }
+    .view.active {
+        display: block;
+    }
+</style>
+<main class="w-full h-full p-8 overflow-y-auto relative">
+    
+    <div id="back-button-container" class="absolute top-8 left-8 z-50 hidden">
+         <button onclick="goBack()" class="flex items-center space-x-2 text-sm font-semibold text-muted hover:text-white transition-colors">
+            <i class="fas fa-arrow-left"></i>
+            <span>Voltar</span>
+        </button>
+    </div>
+
+    <div id="dashboard-view" class="view">
+        <div class="flex items-center space-x-4 mb-8" data-aos="fade-down">
+            <div class="w-16 h-16 bg-content rounded-2xl flex items-center justify-center shadow-md border border-gray-700">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="40" height="40">
+                    <defs>
+                        <linearGradient id="gradBrand" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#4f46e5"/>
+                            <stop offset="50%" stop-color="#a78bfa"/>
+                            <stop offset="100%" stop-color="#facc15"/>
+                        </linearGradient>
+                    </defs>
+                    <path d="M 100, 20 A 80,80 0 1 1 20,100 L 40,100 A 60,60 0 1 0 100,40 Z" fill="url(#gradBrand)"/>
+                    <text x="100" y="125" text-anchor="middle" font-size="80" font-weight="bold" fill="white" font-family="Poppins, sans-serif">B</text>
+                </svg>
+            </div>
+            <h1 class="text-4xl font-extrabold text-gradient">Birth Hub 360</h1>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+            <a href="#" onclick="showView('cockpit-view')" class="entry-card block p-8" data-aos="fade-right">
+                <div class="flex items-center space-x-6">
+                    <i data-lucide="rocket" class="w-14 h-14 text-gradient"></i>
+                    <div>
+                        <h2 class="text-2xl font-bold text-gradient">Cockpit de Vendas</h2>
+                        <p class="mt-1 text-muted">Sua central de comando para todas as operações de vendas.</p>
+                    </div>
+                </div>
+            </a>
+            <a href="#" onclick="showView('radar-view')" class="entry-card block p-8" data-aos="fade-left">
+                 <div class="flex items-center space-x-6">
+                    <i data-lucide="radar" class="w-14 h-14 text-gradient"></i>
+                    <div>
+                        <h2 class="text-2xl font-bold text-gradient">Radar de Oportunidades</h2>
+                        <p class="mt-1 text-muted">Inteligência de mercado para encontrar e qualificar os melhores leads.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div id="cockpit-view" class="view">
+         <h2 class="text-3xl md:text-4xl font-bold text-center mb-4" data-aos="fade-down">
+            Uma Ferramenta para <span class="text-gradient">Cada Especialista</span>
+         </h2>
+        <p class="text-lg text-muted text-center mb-10" data-aos="fade-down" data-aos-delay="100">Capacite cada membro da sua operação com módulos desenhados para a excelência.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <a href="#" onclick="showView('bdr-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up"><i data-lucide="target" class="w-10 h-10 text-accent-violet mb-4"></i><h3 class="text-base font-semibold">BDR Automático 360</h3><p class="mt-2 text-sm text-muted">Prospecção e qualificação de leads outbound.</p></a>
+            <a href="#" onclick="showView('sdr-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="50"><i data-lucide="phone-forwarded" class="w-10 h-10 text-accent-violet mb-4"></i><h3 class="text-base font-semibold">SDR Automático 360</h3><p class="mt-2 text-sm text-muted">Qualificação de leads inbound com co-piloto de IA.</p></a>
+            <a href="#" onclick="showView('account-executive-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="100"><i data-lucide="user-check" class="w-10 h-10 text-accent-violet mb-4"></i><h3 class="text-base font-semibold">Executivo de Contas Automático 360</h3><p class="mt-2 text-sm text-muted">Recebe, negocia e fecha contratos.</p></a>
+            <a href="#" onclick="showView('inside-sales-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="150"><i data-lucide="monitor-smartphone" class="w-10 h-10 text-accent-violet mb-4"></i><h3 class="text-base font-semibold">Vendedor Interno Automático 360</h3><p class="mt-2 text-sm text-muted">Realiza todo o processo de venda de forma remota.</p></a>
+            <a href="#" onclick="showView('account-manager-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="200"><i data-lucide="briefcase" class="w-10 h-10 text-accent-lavender mb-4"></i><h3 class="text-base font-semibold">Gerente de Contas Automático 360</h3><p class="mt-2 text-sm text-muted">Gerencia a carteira de clientes.</p></a>
+            <a href="#" onclick="showView('kam-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="250"><i data-lucide="key-round" class="w-10 h-10 text-accent-lavender mb-4"></i><h3 class="text-base font-semibold">Key Account Manager Automático 360</h3><p class="mt-2 text-sm text-muted">Relacionamento com contas estratégicas.</p></a>
+            <a href="#" onclick="showView('sales-lead-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="300"><i data-lucide="users" class="w-10 h-10 text-accent-amber mb-4"></i><h3 class="text-base font-semibold">Líder de Vendas Automático 360</h3><p class="mt-2 text-sm text-muted">Lidera e oferece suporte a um grupo de vendedores.</p></a>
+            <a href="#" onclick="showView('sales-manager-view')" class="tool-card p-6 flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="350"><i data-lucide="user-cog" class="w-10 h-10 text-accent-amber mb-4"></i><h3 class="text-base font-semibold">Gerente de Vendas Automático 360</h3><p class="mt-2 text-sm text-muted">Gerencia a equipe, define metas e estratégias.</p></a>
+        </div>
+    </div>
+
+    <div id="bdr-view" class="view">
+        <div id="bdr-input-section"><h2 class="text-3xl md:text-4xl font-bold text-center mb-4"><span class="text-gradient">BDR Automático 360</span></h2><p class="text-lg text-muted text-center mb-10">Insira a empresa-alvo para iniciar a análise de inteligência de mercado completa.</p><div class="card p-8 max-w-4xl mx-auto"><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><div><label for="company-target" class="block text-sm font-medium mb-2 text-muted">Empresa-Alvo</label><input type="text" id="company-target" class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 focus:ring-2 focus:ring-accent-violet focus:border-accent-violet" placeholder="Ex: Pipedrive Brasil"></div><div><label for="decision-maker" class="block text-sm font-medium mb-2 text-muted">Decisor Principal (Cargo)</label><input type="text" id="decision-maker" class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 focus:ring-2 focus:ring-accent-violet focus:border-accent-violet" placeholder="Ex: Diretor de Vendas"></div></div><div class="text-center"><button id="bdr-generate-btn" class="btn-primary mt-8"><i data-lucide="wand-2" class="w-5 h-5"></i><span>Gerar Análise 360</span></button></div></div></div>
+        <div id="bdr-loading-section" class="hidden text-center py-20"><div role="status" class="flex flex-col items-center"><svg aria-hidden="true" class="w-12 h-12 text-gray-600 animate-spin fill-accent-violet" viewBox="0 0 100 101" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M100 50.5908C100 78.2051 77.6142 100.591 50 100.591C22.3858 100.591 0 78.2051 0 50.5908C0 22.9766 22.3858 0.59082 50 0.59082C77.6142 0.59082 100 22.9766 100 50.5908ZM9.08144 50.5908C9.08144 73.1895 27.4013 91.5094 50 91.5094C72.5987 91.5094 90.9186 73.1895 90.9186 50.5908C90.9186 27.9921 72.5987 9.67226 50 9.67226C27.4013 9.67226 9.08144 27.9921 9.08144 50.5908Z" fill="currentColor"/><path d="M93.9676 39.0409C96.393 38.4038 97.8624 35.9116 97.0079 33.5539C95.2932 28.8227 92.871 24.3692 89.8167 20.348C85.8452 15.1192 80.8826 10.7238 75.2124 7.41289C69.5422 4.10194 63.2754 1.94025 56.7698 1.05124C51.7666 0.367541 46.6976 0.446843 41.7345 1.27873C39.2613 1.69328 37.813 4.19778 38.4501 6.62326C39.0873 9.04874 41.5694 10.4717 44.0505 10.1071C47.8511 9.54855 51.7191 9.52689 55.5402 10.0492C60.8642 10.7766 65.9928 12.5457 70.6331 15.2552C75.2735 17.9648 79.3347 21.5619 82.5849 25.841C84.9175 28.9121 86.7997 32.2913 88.1811 35.8758C89.083 38.2158 91.5421 39.6781 93.9676 39.0409Z" fill="currentFill"/></svg><p class="text-xl font-semibold mt-4">Analisando mercado, mapeando contatos, gerando insights...</p><p class="text-muted">Isso pode levar alguns segundos.</p></div></div>
+        <div id="bdr-results-section" class="hidden"><h2 class="text-3xl md:text-4xl font-bold text-center mb-6"><span class="text-gradient">Dossiê Estratégico: Pipedrive Brasil</span></h2><div class="space-y-8"></div></div>
+    </div>
+
+    <div id="sdr-view" class="view text-center"><h2 class="text-3xl md:text-4xl font-bold"><span class="text-gradient">SDR Automático 360</span></h2><p class="text-lg text-muted mt-4">Selecione um lead qualificado para iniciar o orquestrador de cadência.</p></div>
+    <div id="account-executive-view" class="view text-center"><h2 class="text-3xl md:text-4xl font-bold"><span class="text-gradient">Executivo de Contas Automático 360</span></h2><p class="text-lg text-muted mt-4">Conteúdo para o módulo será adicionado aqui.</p></div>
+</main>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    // ===================================
+    // Lógica Principal do Birth Hub 360
+    // ===================================
+    const views = document.querySelectorAll('.view');
+    const backButtonContainer = document.getElementById('back-button-container');
+    const viewHistory = [];
+
+    // Por padrão, o tema é escuro, como no site de referência
+    document.documentElement.setAttribute('data-theme', 'dark');
+
+    function showView(viewId, isBack = false) {
+        const currentView = document.querySelector('.view.active');
+        if (currentView) {
+            if (!isBack) viewHistory.push(currentView.id);
+            currentView.classList.remove('active');
+        }
+        
+        views.forEach(v => v.style.display = 'none');
+        const nextView = document.getElementById(viewId);
+        if (nextView) {
+            nextView.style.display = 'block';
+            nextView.classList.add('active');
+        }
+
+        backButtonContainer.style.display = viewHistory.length > 0 ? 'block' : 'none';
+        lucide.createIcons();
+        AOS.refreshHard();
+    }
+    
+    function goBack() {
+        if (viewHistory.length > 0) {
+            const previousViewId = viewHistory.pop();
+            showView(previousViewId, true);
+        }
+    }
+
+    document.querySelectorAll('a[onclick^="showView"]').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const onclickAttr = link.getAttribute('onclick');
+            const viewId = onclickAttr.match(/'([^']+)'/)[1];
+            showView(viewId);
+        });
+    });
+
+    // BDR Logic
+    const bdrGenerateBtn = document.getElementById('bdr-generate-btn');
+    if (bdrGenerateBtn) {
+        bdrGenerateBtn.addEventListener('click', () => {
+            document.getElementById('bdr-input-section').style.display = 'none';
+            document.getElementById('bdr-loading-section').style.display = 'block';
+            document.getElementById('bdr-results-section').style.display = 'none';
+            setTimeout(() => {
+                document.getElementById('bdr-loading-section').style.display = 'none';
+                const resultsContainer = document.getElementById('bdr-results-section');
+                resultsContainer.style.display = 'block';
+                resultsContainer.querySelector('.space-y-8').innerHTML = `
+                    <div class="card p-6" data-aos="fade-up"><h3 class="text-xl font-bold mb-4">Hierarquia de Decisão e Contatos 360</h3></div>
+                    <div class="card p-6" data-aos="fade-up" data-aos-delay="100"><h3 class="text-xl font-bold mb-4">Análise Competitiva e Pontos de Ataque</h3></div>
+                    <div class="card p-6" data-aos="fade-up" data-aos-delay="200"><h3 class="text-xl font-bold mb-4">Kit de Abordagem Cirúrgico</h3></div>
+                    <div class="card p-6" data-aos="fade-up" data-aos-delay="300"><h3 class="text-xl font-bold mb-4">Plano de Ação e Execução no CRM</h3></div>
+                `;
+                AOS.refreshHard();
+            }, 3000);
+        });
+    }
+    
+    // Initial Setup
+    window.onload = () => {
+         lucide.createIcons();
+         AOS.init({ duration: 600, once: true, offset: 50 });
+         showView('dashboard-view');
+    };
+</script>
+                                                  
+   
+
+   
+
+   
+
+                
+                     
+       
+
+           
+               
+                                   
+               
+Birth Hub 360
+           
+           
+
+                                   
+                                               
+                           
+Cockpit de Vendas
+                           
+Sua central de comando para todas as operações de vendas.
+
+                       
+                   
+                                                     
+                                               
+                           
+Radar de Oportunidades
+                           
+Inteligência de mercado para encontrar e qualificar os melhores leads.
+
+                       
+                   
+                           
+       
+       
+
+             
+                Uma Ferramenta para Cada Especialista              
+           
+Capacite cada membro da sua operação com módulos desenhados para a excelência.
+
+           
+               
+BDR Automático 360
+Prospecção e qualificação de leads outbound.
+
+               
+SDR Automático 360
+Qualificação de leads inbound com co-piloto de IA.
+
+               
+Executivo de Contas Automático 360
+Recebe, negocia e fecha contratos.
+
+               
+Vendedor Interno Automático 360
+Realiza todo o processo de venda de forma remota.
+
+               
+Gerente de Contas Automático 360
+Gerencia a carteira de clientes.
+
+               
+Key Account Manager Automático 360
+Relacionamento com contas estratégicas.
+
+               
+Líder de Vendas Automático 360
+Lidera e oferece suporte a um grupo de vendedores.
+
+               
+Gerente de Vendas Automático 360
+Gerencia a equipe, define metas e estratégias.
+
+           
+       
+       
+
+           
+BDR Automático 360
+Insira a empresa-alvo para iniciar a análise de inteligência de mercado completa.
+
+           
+Analisando mercado, mapeando contatos, gerando insights...
+
+Isso pode levar alguns segundos.
+
+           
+Dossiê Estratégico: Pipedrive Brasil
+       
+       
+
+SDR Automático 360
+Selecione um lead qualificado para iniciar o orquestrador de cadência.
+
+       
+Executivo de Contas Automático 360
+Conteúdo para o módulo será adicionado aqui.
+
+   
+            
+                                                                
+   
+
+        
+   
+
+                
+                     
+       
+       
+
+           
+               
+                                   
+               
+                   
+Birth Hub 360
+                   
+Carregando...
+
+               
+           
+           
+               
+                   
+                       
+Cockpit de Vendas
+Sua central de comando.
+
+                   
+               
+               
+                     
+                       
+Radar de Oportunidades
+✨ Prospecção com IA.
+
+                   
+               
+                 
+                     
+                       
+Resumidor de Interações
+✨ Resuma chamadas e e-mails com IA.
+
+                   
+               
+                 
+                     
+                       
+Otimizador de Perfil
+✨ Otimize seu LinkedIn com IA.
+
+                   
+               
+           
+       
+       
+
+             
+Uma Ferramenta para Cada Especialista
+           
+Capacite cada membro da sua operação com módulos desenhados para a excelência.
+
+           
+               
+BDR Automático
+Prospecção e qualificação outbound.
+
+✨ Gera dossiês de empresas com IA.
+               
+SDR Automático
+Qualificação de leads inbound.
+
+✨ Analisa leads e cria abordagens com IA.
+               
+Executivo de Contas
+Recebe, negocia e fecha contratos.
+
+✨ Gera estratégias de fechamento com IA.
+               
+Vendedor Interno
+Processo de venda remota.
+
+✨ Cria cadências de e-mail com IA.
+               
+Gerente de Contas
+Gerencia a carteira de clientes.
+
+✨ Analisa a saúde da conta com IA.
+               
+Key Account Manager
+Contas estratégicas.
+
+✨ Cria planos de relacionamento com IA.
+               
+Líder de Vendas
+Lidera um grupo de vendedores.
+
+✨ Gera briefings para reuniões com IA.
+               
+Gerente de Vendas
+Define metas e estratégias.
+
+✨ Cria planos estratégicos com IA.
+               
+Analisador de Forecast
+Analisa e prevê resultados.
+
+✨ Gera forecasts e insights do pipeline com IA.
+               
+Gerador de Quebra-Gelo
+Cria aberturas de conversa.
+
+✨ Gera "icebreakers" personalizados com IA.
+           
+       
+       
+
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+       
+...
+   
+                
+   
+
+       
+
+   
+   
+document.addEventListener('DOMContentLoaded', () => {     // Lógica de navegação     const navLinks = document.querySelectorAll('[data-view]');     navLinks.forEach(link => {         link.addEventListener('click', (e) => {             e.preventDefault();             const viewId = link.dataset.view;             showView(viewId);         });     });
+    // Lógica do botão Voltar     const backButton = document.querySelector('#back-button-container button');     backButton.addEventListener('click', goBack); });
+
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- Icons -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- Animation Library -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+<style>
+    :root {
+        --bg-primary: #F4F7FE;
+        --bg-secondary: #FFFFFF;
+        --text-primary: #1E293B;
+        --text-secondary: #475569;
+        --accent-primary: #4F46E5;
+        --accent-secondary: #10B981;
+        --border-color: #E2E8F0;
+        --font-heading: 'Poppins', sans-serif;
+        --font-body: 'Inter', sans-serif;
+    }
+
+    body {
+        font-family: var(--font-body);
+        background-color: var(--bg-primary);
+        color: var(--text-primary);
+    }
+
+    .card, .tool-card, .entry-card {
+        background-color: var(--bg-secondary);
+        border: 1px solid var(--border-color);
+        border-radius: 1.5rem;
+        transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .card::before, .tool-card::before, .entry-card::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(79, 70, 229, 0.08) 0%, rgba(79, 70, 229, 0) 70%);
+        transition: opacity 0.5s ease;
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .card:hover::before, .tool-card:hover::before, .entry-card:hover::before {
+        opacity: 1;
+        animation: rotateGlow 5s linear infinite;
+    }
+
+    @keyframes rotateGlow {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+    }
+
+    .tool-card:hover, .entry-card:hover {
+        transform: translateY(-8px) scale(1.02);
+        box-shadow: 0 20px 40px rgba(30, 41, 59, 0.1);
+        border-color: var(--accent-primary);
+    }
+
+    .btn-ai {
+        background: linear-gradient(45deg, #4F46E5 0%, #10B981 100%);
+        color: white;
+        transition: all 0.3s ease;
+        border-radius: 1rem;
+        box-shadow: 0 4px 15px rgba(79, 70, 229, 0.2);
+        font-weight: 600;
+    }
+    .btn-ai:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 7px 20px rgba(79, 70, 229, 0.3);
+    }
+    .btn-ai:disabled { opacity: 0.7; cursor: not-allowed; }
+
+    .btn-audio {
+        background: linear-gradient(45deg, #8B5CF6 0%, #EC4899 100%);
+        color: white;
+        border-radius: 1rem;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .btn-back {
+        background-color: #E2E8F0;
+        color: #475569;
+        border-radius: 1rem;
+        transition: all 0.2s ease;
+    }
+
+    .page-header {
+         font-size: 2.5rem;
+         font-weight: 800;
+         background: linear-gradient(45deg, var(--accent-primary), #8B5CF6);
+         -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
+    }
+
+    .view { display: none; }
+    #dashboard-view { display: block; }
+    
+    .ai-output-container {
+        background-color: #f8fafc;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        border: 1px solid #e2e8f0;
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: #334155;
+        white-space: pre-wrap;
+        min-height: 150px;
+    }
+
+    .spinner {
+        border: 3px solid rgba(0, 0, 0, 0.1);
+        border-top: 3px solid #4F46E5;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin { 100% { transform: rotate(360deg); } }
+
+    .ai-badge {
+        background: linear-gradient(45deg, #FDE68A, #F59E0B);
+        color: #78350F;
+        font-size: 0.65rem;
+        padding: 2px 8px;
+        border-radius: 9999px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+</style>
+<!-- Main Content Area -->
+<main class="w-full h-full p-6 md:p-12 overflow-y-auto">
+    
+    <!-- DASHBOARD VIEW -->
+    <div id="dashboard-view" class="view" data-aos="fade-in">
+        <div class="flex items-center justify-between mb-12">
+            <div class="flex items-center space-x-4">
+                <div class="w-14 h-14 bg-indigo-600 rounded-2xl flex items-center justify-center shadow-lg">
+                    <i data-lucide="layout-grid" class="text-white w-8 h-8"></i>
+                </div>
+                <div>
+                    <h1 class="text-4xl font-black text-slate-800 tracking-tight">Birth Hub 360</h1>
+                    <p class="text-slate-500 font-medium">Ecossistema de Inteligência Integrado ✨</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+            <div onclick="showView('cockpit-view')" class="entry-card p-10 cursor-pointer group">
+                <div class="flex flex-col h-full">
+                    <div class="w-20 h-20 bg-indigo-50 rounded-3xl flex items-center justify-center mb-6">
+                        <i data-lucide="rocket" class="w-10 h-10 text-indigo-600"></i>
+                    </div>
+                    <h2 class="text-3xl font-extrabold text-slate-800 mb-3">Cockpit de Vendas</h2>
+                    <p class="text-lg text-slate-500 leading-relaxed">Operação assistida por IA. Gere scripts de elite, contorne objeções e otimize seu funil em tempo real.</p>
+                    <div class="mt-8 flex items-center text-indigo-600 font-bold text-lg">
+                        Acessar Cockpit <i data-lucide="arrow-right" class="ml-2 w-6 h-6"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div onclick="showView('radar-view')" class="entry-card p-10 cursor-pointer group">
+                <div class="flex flex-col h-full">
+                    <div class="w-20 h-20 bg-emerald-50 rounded-3xl flex items-center justify-center mb-6">
+                        <i data-lucide="radar" class="w-10 h-10 text-emerald-600"></i>
+                    </div>
+                    <h2 class="text-3xl font-extrabold text-slate-800 mb-3">Radar de Oportunidades ✨</h2>
+                    <p class="text-lg text-slate-500 leading-relaxed">Inteligência profunda via Gemini. Rastreie contas e receba dossiês estratégicos completos.</p>
+                    <div class="mt-8 flex items-center text-emerald-600 font-bold text-lg">
+                        Ligar Radar <i data-lucide="arrow-right" class="ml-2 w-6 h-6"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- COCKPIT VIEW -->
+    <div id="cockpit-view" class="view" data-aos="fade-up">
+        <div class="mb-10">
+            <button onclick="showView('dashboard-view')" class="btn-back px-4 py-2 flex items-center mb-4 text-sm font-bold">
+                <i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Voltar ao Início
+            </button>
+            <h2 class="page-header">Cockpit de Vendas</h2>
+            <p class="text-lg text-slate-500">Módulos especializados com suporte de LLM ✨.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+            <div onclick="showView('bdr-view')" class="tool-card p-8 cursor-pointer">
+                <span class="ai-badge mb-2">IA Ativa</span>
+                <i data-lucide="target" class="text-blue-600 w-10 h-10 mb-4"></i>
+                <h3 class="text-xl font-bold">BDR Automático ✨</h3>
+                <p class="text-slate-500 text-sm">Geração de sequências de prospecção.</p>
+            </div>
+
+            <div onclick="showView('ae-view')" class="tool-card p-8 cursor-pointer">
+                <span class="ai-badge mb-2">IA + Áudio</span>
+                <i data-lucide="user-check" class="text-teal-600 w-10 h-10 mb-4"></i>
+                <h3 class="text-xl font-bold">Executivo de Elite ✨</h3>
+                <p class="text-slate-500 text-sm">Simulador de objeções com voz.</p>
+            </div>
+
+            <div onclick="showView('sales-ops-view')" class="tool-card p-8 cursor-pointer">
+                <span class="ai-badge mb-2">Análise de Dados</span>
+                <i data-lucide="settings-2" class="text-slate-600 w-10 h-10 mb-4"></i>
+                <h3 class="text-xl font-bold">Sales Ops ✨</h3>
+                <p class="text-slate-500 text-sm">Diagnóstico técnico de processos.</p>
+            </div>
+
+            <div onclick="showView('vendedor-interno-view')" class="tool-card p-8 cursor-pointer">
+                <span class="ai-badge mb-2">Inside Support</span>
+                <i data-lucide="monitor-smartphone" class="text-cyan-600 w-10 h-10 mb-4"></i>
+                <h3 class="text-xl font-bold">Vendedor Interno ✨</h3>
+                <p class="text-slate-500 text-sm">Análise de tom e próximos passos.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- RADAR VIEW -->
+    <div id="radar-view" class="view" data-aos="fade-up">
+        <button onclick="showView('dashboard-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="arrow-left" class="mr-1 w-4 h-4"></i> Início</button>
+        <h2 class="page-header">Radar de Oportunidades ✨</h2>
+        <div class="card p-10 max-w-4xl mx-auto">
+            <div class="flex gap-4 mb-10">
+                <input type="text" id="radar-input" class="flex-1 p-5 border rounded-2xl bg-slate-50 text-xl focus:outline-none focus:ring-2 focus:ring-emerald-500" placeholder="Digite o nome da empresa ou domínio (ex: nubank.com.br)">
+                <button onclick="runRadarAnalysis()" id="radar-btn" class="btn-ai px-10 text-xl flex items-center space-x-2">
+                    <span>Rastrear ✨</span>
+                </button>
+            </div>
+            <div id="radar-loading" class="hidden text-center py-10">
+                <div class="spinner mx-auto mb-4"></div>
+                <p class="text-slate-600 font-bold animate-pulse">O Gemini está minerando dados estratégicos...</p>
+            </div>
+            <div id="radar-output" class="ai-output-container hidden"></div>
+        </div>
+    </div>
+
+    <!-- BDR VIEW -->
+    <div id="bdr-view" class="view" data-aos="fade-up">
+        <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+        <h2 class="page-header">BDR Automático ✨</h2>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+            <div class="card p-8">
+                <div class="space-y-4">
+                    <label class="block text-sm font-bold text-slate-700">Empresa e Cargo do Decisor</label>
+                    <input type="text" id="bdr-target" class="w-full p-4 border rounded-xl bg-slate-50" placeholder="Ex: Diretor de Vendas na Ambev">
+                    <label class="block text-sm font-bold text-slate-700">Qual o seu produto?</label>
+                    <input type="text" id="bdr-product" class="w-full p-4 border rounded-xl bg-slate-50" placeholder="Ex: Software de Logística Reversa">
+                    <button onclick="runBDRPitch()" id="bdr-btn" class="btn-ai w-full py-4 text-lg">Gerar Kit de Abordagem ✨</button>
+                </div>
+            </div>
+            <div class="card p-8 bg-indigo-50 border-indigo-100">
+                <h3 class="font-bold text-indigo-900 mb-4 flex items-center"><i data-lucide="mail" class="mr-2 w-5 h-5"></i> Sequência Sugerida</h3>
+                <div id="bdr-output" class="ai-output-container">Aguardando definição do alvo...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- AE VIEW -->
+    <div id="ae-view" class="view" data-aos="fade-up">
+        <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+        <h2 class="page-header">Executivo de Elite ✨</h2>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+            <div class="card p-8">
+                <p class="mb-4 text-slate-500">Treine contra as objeções mais difíceis do seu mercado.</p>
+                <div class="space-y-4">
+                    <textarea id="ae-objection" class="w-full h-32 p-4 border rounded-xl bg-slate-50" placeholder="Cole aqui a objeção do cliente (Ex: Tá caro, não tenho tempo, já uso o concorrente...)"></textarea>
+                    <button onclick="runAERebuttal()" id="ae-btn" class="btn-ai w-full py-4 text-lg">Gerar Rebatida Matadora ✨</button>
+                </div>
+            </div>
+            <div class="card p-8 bg-indigo-50 border-indigo-100 flex flex-col">
+                <div id="ae-output" class="ai-output-container flex-1">Script de fechamento aparecerá aqui.</div>
+                <div id="ae-audio-box" class="mt-6 hidden">
+                    <button onclick="playObjectionVoice()" id="ae-audio-btn" class="btn-audio w-full py-4 flex items-center justify-center space-x-3 shadow-lg">
+                        <i data-lucide="play-circle" class="w-6 h-6"></i>
+                        <span>Ouvir Voz do Cliente ✨</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- SALES OPS VIEW -->
+    <div id="sales-ops-view" class="view" data-aos="fade-up">
+        <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+        <h2 class="page-header">Otimizador de Funil ✨</h2>
+        <div class="card p-10 max-w-4xl mx-auto">
+            <p class="mb-6 font-bold text-slate-700">Descreva um gargalo no seu processo comercial:</p>
+            <textarea id="ops-input" class="w-full h-48 p-6 border rounded-2xl bg-slate-50 mb-6 text-lg" placeholder="Ex: Meus leads ficam parados 10 dias na etapa de negociação sem interação..."></textarea>
+            <button onclick="runOpsDiagnosis()" id="ops-btn" class="btn-ai w-full py-5 text-xl">Diagnosticar Processo ✨</button>
+            <div id="ops-output" class="ai-output-container mt-10 hidden"></div>
+        </div>
+    </div>
+
+    <!-- VENDEDOR INTERNO VIEW -->
+    <div id="vendedor-interno-view" class="view" data-aos="fade-up">
+        <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+        <h2 class="page-header">Vendedor Interno Assistido ✨</h2>
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+            <div class="card p-8">
+                <h3 class="font-bold mb-4">Análise de Mensagem</h3>
+                <textarea id="vi-input" class="w-full h-48 p-4 border rounded-xl bg-slate-50 mb-4" placeholder="Cole a última mensagem recebida pelo WhatsApp ou E-mail..."></textarea>
+                <button onclick="runVIAnalysis()" id="vi-btn" class="btn-ai w-full py-4 text-lg">Analisar Tom e Intenção ✨</button>
+            </div>
+            <div id="vi-output" class="ai-output-container">Insights sobre a negociação remota aparecerão aqui.</div>
+        </div>
+    </div>
+
+</main>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init({ duration: 800, once: true });
+    lucide.createIcons();
+
+    const apiKey = "";
+    const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${apiKey}`;
+    const ttsUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent?key=${apiKey}`;
+
+    // Utility: Exponential Backoff Fetch
+    async function fetchWithRetry(url, options, retries = 5, delay = 1000) {
+        for (let i = 0; i < retries; i++) {
+            try {
+                const response = await fetch(url, options);
+                if (response.ok) return await response.json();
+            } catch (e) {
+                if (i === retries - 1) throw e;
+            }
+            await new Promise(r => setTimeout(r, delay));
+            delay *= 2;
+        }
+    }
+
+    // Logic: Call Gemini Text
+    async function callGemini(prompt, btnId, outId) {
+        const btn = document.getElementById(btnId);
+        const out = document.getElementById(outId);
+        const originalText = btn.innerHTML;
+
+        btn.disabled = true;
+        btn.innerHTML = `<i class="fas fa-circle-notch fa-spin mr-2"></i> IA Processando...`;
+        out.classList.remove('hidden');
+        out.innerHTML = "O Gemini está desenhando a estratégia...";
+
+        try {
+            const data = await fetchWithRetry(geminiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    contents: [{ parts: [{ text: prompt }] }],
+                    generationConfig: { temperature: 0.7 }
+                })
+            });
+            const text = data.candidates?.[0]?.content?.parts?.[0]?.text || "Falha na resposta.";
+            out.innerText = text;
+        } catch (err) {
+            out.innerText = "Erro na conexão com o cérebro da IA. Tente novamente.";
+        } finally {
+            btn.innerHTML = originalText;
+            btn.disabled = false;
+        }
+    }
+
+    // Feature: Text to Speech (Voz do Cliente)
+    async function playObjectionVoice() {
+        const text = document.getElementById('ae-objection').value;
+        if(!text) return;
+        const btn = document.getElementById('ae-audio-btn');
+        const original = btn.innerHTML;
+        btn.innerHTML = `<i class="fas fa-spinner fa-spin mr-2"></i> Gerando Voz...`;
+
+        try {
+            const response = await fetch(ttsUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    contents: [{ parts: [{ text: `Diga esta frase com um tom de cliente cético ou levemente irritado: ${text}` }] }],
+                    generationConfig: {
+                        responseModalities: ["AUDIO"],
+                        speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: "Puck" } } }
+                    },
+                    model: "gemini-2.5-flash-preview-tts"
+                })
+            });
+            const result = await response.json();
+            const pcmData = result.candidates[0].content.parts[0].inlineData.data;
+            
+            // Conversão PCM para WAV baseada na especificação do ambiente
+            const binaryString = atob(pcmData);
+            const len = binaryString.length;
+            const bytes = new Uint8Array(len);
+            for (let i = 0; i < len; i++) bytes[i] = binaryString.charCodeAt(i);
+            const blob = new Blob([bytes], { type: 'audio/wav' });
+            const url = URL.createObjectURL(blob);
+            new Audio(url).play();
+        } catch (e) {
+            console.error("TTS Error:", e);
+        } finally {
+            btn.innerHTML = original;
+        }
+    }
+
+    function showView(viewId) {
+        document.querySelectorAll('.view').forEach(v => v.style.display = 'none');
+        const target = document.getElementById(viewId);
+        if(target) {
+            target.style.display = 'block';
+            lucide.createIcons();
+            AOS.refresh();
+            window.scrollTo(0, 0);
+        }
+    }
+
+    // Handlers
+    function runRadarAnalysis() {
+        const val = document.getElementById('radar-input').value;
+        if(!val) return;
+        callGemini(`Analise a empresa ${val} como inteligência de vendas. Mapeie: 1. ICP, 2. Concorrentes e Fraquezas, 3. Três dores latentes, 4. Um icebreaker personalizado para o Head de Vendas.`, 'radar-btn', 'radar-output');
+    }
+
+    function runBDRPitch() {
+        const target = document.getElementById('bdr-target').value;
+        const prod = document.getElementById('bdr-product').value;
+        if(!target || !prod) return;
+        callGemini(`Crie um Kit de Abordagem para vender ${prod} para ${target}. Inclua: Linha de assunto épica, e-mail curto com técnica AIDA e mensagem de LinkedIn.`, 'bdr-btn', 'bdr-output');
+    }
+
+    function runAERebuttal() {
+        const obj = document.getElementById('ae-objection').value;
+        if(!obj) return;
+        callGemini(`O cliente deu a seguinte objeção: "${obj}". Crie uma rebatida usando a técnica de espelhamento e isolamento de dor. Seja curto e firme.`, 'ae-btn', 'ae-output');
+        document.getElementById('ae-audio-box').classList.remove('hidden');
+    }
+
+    function runOpsDiagnosis() {
+        const input = document.getElementById('ops-input').value;
+        if(!input) return;
+        callGemini(`Diagnóstico de Sales Ops: "${input}". Identifique o erro processual e sugira uma automação de CRM ou mudança de cadência técnica.`, 'ops-btn', 'ops-output');
+    }
+
+    function runVIAnalysis() {
+        const input = document.getElementById('vi-input').value;
+        if(!input) return;
+        callGemini(`Analise esta mensagem de venda interna: "${input}". Qual o tom do cliente? (Urgente, Curioso, Cético) e qual a melhor resposta curta para avançar no WhatsApp?`, 'vi-btn', 'vi-output');
+    }
+
+    window.onload = () => showView('dashboard-view');
+</script>
+Aqui está a especificação arquitetural completa do Birth Hub 360 Innovation, executada conforme o prompt desenhado, cobrindo todas as funções da estrutura comercial.
+Especificação Funcional: Birth Hub 360 Innovation Grupo 1: Prospecção (Top-of-Funnel)
+
+1.1 LDR (Lead Development Representative)
+Foco: Inteligência de Dados e Construção de Listas.
+
+Visão do Sales Cockpit
+KPIs: Novos Leads Gerados/Dia, Taxa de Validez de E-mail/Telefone, Cobertura de Dados por Conta (Preenchimento do CRM), Taxa de Aceitação da Lista (pelo BDR/SDR).
+
+Widgets de Ação: "Validador em Lote", "Higienização de Lista Pendente", "Exportar para CRM".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Identificar "buracos" de dados e novas empresas no TAM (Total Addressable Market).
+
+Gatilhos:
+
+Alerta de ICP: "Nova empresa detectada no LinkedIn que corresponde a 95% dos critérios de ICP."
+
+Alerta de Movimentação: "Decision Maker mudou de emprego (atualizar contato)."
+
+Automações e Integrações
+Gemini: "Enriquecimento de Perfil" -> O Gemini varre o site da empresa e LinkedIn para preencher automaticamente: Tech Stack, Resumo da Empresa e Últimas Notícias no CRM.
+
+Slack: Notificação diária: "Resumo da Manhã: 50 novos leads enriquecidos prontos para distribuição."
+
+Jira: N/A (Foco em dados, não produto).
+
+1.2 BDR (Business Development Representative)
+Foco: Prospecção Outbound (Cold).
+
+Visão do Sales Cockpit
+KPIs: Atividades Diárias (Calls/Emails), Taxa de Conexão, Reuniões Agendadas (SALs), Taxa de Conversão (Lista -> Reunião).
+
+Widgets de Ação: "Próximo na Cadência" (Dialer integrado), "Personalizar E-mail em Massa", "Testar Pitch A/B".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Timing de abordagem (Trigger events).
+
+Gatilhos:
+
+Sinal de Compra: "Empresa Alvo acabou de receber Série B de investimento."
+
+Sinal de Dor: "Empresa Alvo abriu 5 vagas para [Cargo que sua ferramenta substitui/ajuda]."
+
+Automações e Integrações
+Gemini: "Gerador de Icebreakers" -> Gemini analisa o último post do LinkedIn do lead e sugere a primeira frase do e-mail de prospecção.
+
+Slack: "Alerta de Engajamento: Lead Quente abriu seu e-mail 5 vezes na última hora."
+
+Jira: N/A.
+
+1.3 SDR (Sales Development Representative)
+Foco: Qualificação Inbound (Leads de Marketing).
+
+Visão do Sales Cockpit
+KPIs: Tempo de Resposta (Speed to Lead), Lead Response Rate, Reuniões Agendadas (SQLs), Qualidade do Lead (Lead Scoring médio).
+
+Widgets de Ação: "Fila de Novos Leads (Priorizada por Score)", "Reagendamento Rápido", "Desqualificar Lead".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Priorização baseada em comportamento digital.
+
+Gatilhos:
+
+Alta Intenção: "Lead visitou a página de Preços 3 vezes hoje."
+
+Reativação: "Lead antigo (Lost) baixou um novo eBook."
+
+Automações e Integrações
+Gemini: "Analista de Pré-Call" -> Resume todo o histórico de marketing do lead (páginas visitadas, e-mails clicados) em 3 bullet points antes da ligação.
+
+Slack: "Alerta Speed-to-Lead: Novo Demo Request recebido. Ligue agora!"
+
+Jira: N/A.
+
+Grupo 2: Fechamento (Core Sales)
+
+2.1 AE (Account Executive)
+Foco: Demonstração, Negociação e Fechamento.
+
+Visão do Sales Cockpit
+KPIs: Pipeline Total, Forecast Ponderado, Taxa de Conversão (Demo -> Close), Ciclo Médio de Vendas, Ticket Médio.
+
+Widgets de Ação: "Pipeline Review (Arrastar Cards)", "Gerar Contrato", "Follow-up Atrasado".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Aceleração de deal e reativação.
+
+Gatilhos:
+
+Risco de Deal: "Deal estagnado na etapa 'Negociação' há mais de 10 dias."
+
+Multithreading: "Novo stakeholder (Diretor Financeiro) adicionado à thread de e-mail pelo cliente."
+
+Automações e Integrações
+Gemini: "Assistente de Follow-up" -> Ouve a gravação da Demo e gera um e-mail de follow-up citando as dores específicas mencionadas e os próximos passos acordados.
+
+Slack: "Comemoração: Contrato assinado com [Empresa]! Valor: R$ [Valor]."
+
+Jira: Integração bidirecional: "Cliente solicitou Feature X como condição de fechamento" -> Cria Ticket no Jira -> Notifica AE quando Ticket for resolvido/agendado.
+
+Grupo 3: Pós-Venda (Retenção e Expansão)
+
+3.1 Account Manager (Farmer)
+Foco: Expansão de Receita (Upsell/Cross-sell) e Renovação.
+
+Visão do Sales Cockpit
+KPIs: Net Revenue Retention (NRR), Pipeline de Expansão, Taxa de Renovação, Mapa de Carteira (Tierização).
+
+Widgets de Ação: "Criar Oportunidade de Upsell", "Agendar Revisão de Contrato", "Enviar Proposta de Renovação".
+
+Funcionalidade do Radar de Oportunidades
+Foco: White Space Analysis (O que o cliente não comprou ainda).
+
+Gatilhos:
+
+Sinal de Crescimento: "Cliente atingiu 90% do limite de licenças contratadas (Gatilho de Upsell)."
+
+Cross-Sell: "Cliente usa Módulo A, mas tem perfil ideal para Módulo B (baseado em clientes similares)."
+
+Automações e Integrações
+Gemini: "Gerador de Business Case" -> Analisa o uso atual do cliente e gera um slide deck justificando o ROI de um upgrade de plano.
+
+Slack: "Alerta de Vencimento: Contrato da [Empresa] vence em 60 dias. Iniciar renovação."
+
+Jira: Acompanhamento de solicitações de funcionalidades que bloqueiam uma expansão.
+
+3.2 CSM (Customer Success Manager)
+Foco: Adoção, Saúde (Health Score) e Prevenção de Churn.
+
+Visão do Sales Cockpit
+KPIs: Health Score da Carteira, Time to Value (Onboarding), Taxa de Adoção de Features, NPS/CSAT.
+
+Widgets de Ação: "Playbook de Risco", "Agendar QBR (Quarterly Business Review)", "Plano de Sucesso".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Detecção precoce de Risco de Churn.
+
+Gatilhos:
+
+Risco Crítico: "Queda de 30% nos logins semanais nos últimos 15 dias."
+
+Sinal de Risco: "Campeão (Key User) saiu da empresa (verificado via LinkedIn)."
+
+Automações e Integrações
+Gemini: "Analista de Feedback" -> Lê todos os tickets de suporte e comentários de NPS do cliente e resume o sentimento geral para a reunião de QBR.
+
+Slack: "Alerta Vermelho: Cliente [Nome] caiu para Health Score 'Crítico'. Iniciar Playbook de Resgate."
+
+Jira: "Cliente reportou Bug crítico na reunião" -> Cria Bug no Jira diretamente do Cockpit do CSM.
+
+Grupo 4: Gestão e Liderança
+
+4.1 Sales Manager
+Foco: Gestão de Time e Coaching.
+
+Visão do Sales Cockpit
+KPIs: % da Meta do Time, Atividades por Rep, Taxa de Conversão por Etapa do Funil, Forecast do Mês.
+
+Widgets de Ação: "Ouvir Call (Gong/Call Tracker)", "Aprovar Desconto", "Revisão de 1:1".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Identificação de gargalos de performance humana.
+
+Gatilhos:
+
+Coaching: "Rep [Nome] tem taxa de agendamento 20% abaixo da média do time."
+
+Sandbagging: "Rep tem 5 deals com fechamento para 'amanhã' sem atividade registrada há 7 dias."
+
+Automações e Integrações
+Gemini: "Coach Virtual" -> Analisa as últimas 10 calls do Rep e aponta: "O Rep está falando 70% do tempo. Sugira fazer mais perguntas abertas na próxima 1:1."
+
+Slack: "Resumo Diário do Time: X reuniões agendadas, Y reais em pipeline criado hoje."
+
+Jira: N/A.
+
+4.2 Head of Sales / Diretor
+Foco: Estratégia e P&L.
+
+Visão do Sales Cockpit
+KPIs: CAC (Custo de Aquisição), LTV (Lifetime Value), MRR/ARR Total, Forecast Trimestral/Anual, Churn Rate Financeiro.
+
+Widgets de Ação: "Ajustar Cotas", "Simular Cenário de Forecast", "Relatório para Board".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Tendências de Mercado e Macro-riscos.
+
+Gatilhos:
+
+Mercado: "Queda na conversão global do segmento 'Varejo' nos últimos 2 meses."
+
+Competitividade: "Aumento de 15% na menção do Competidor X nas calls de perda (Loss Reasons)."
+
+Automações e Integrações
+Gemini: "Sintetizador de Estratégia" -> "Analise os motivos de perda do último trimestre e sugira 3 ajustes na proposta de valor."
+
+Slack: "Fechamento de Mês: Atingimos 105% da meta global! Parabéns ao time."
+
+Jira: Visualizar painel macro de "Roadmap de Produto vs. Impacto em Receita".
+
+Grupo 5: Suporte e Operações (Enablement)
+
+5.1 Sales Ops
+Foco: Processos e Higiene de Dados.
+
+Visão do Sales Cockpit
+KPIs: Adoção do CRM (% campos preenchidos), Acurácia do Forecast, Ciclo de Venda Médio por Canal, Conversão Funil Completo.
+
+Widgets de Ação: "Auditoria de Pipeline", "Reatribuir Leads Órfãos", "Configurar Regras de Automação".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Detecção de falhas no processo.
+
+Gatilhos:
+
+Erro de Processo: "50 Leads estão estagnados na etapa 'Novo' há mais de 48h (sem dono)."
+
+Integridade de Dados: "Detectada duplicação de contas acima do normal na última importação."
+
+Automações e Integrações
+Gemini: "Auditor de CRM" -> Identifica padrões de preenchimento incorreto (ex: telefones sem DDD, nomes em caixa baixa) e sugere correções em lote.
+
+Slack: "Alerta de Sistema: Integração com Marketing apresentou falha. Verifique imediatamente."
+
+Jira: Criar tickets para o time de Engenharia de Dados sobre falhas na integração do CRM.
+
+5.2 Sales Enablement
+Foco: Treinamento e Conteúdo.
+
+Visão do Sales Cockpit
+KPIs: Tempo de Rampagem (Novos Reps), Uso de Conteúdo (Materiais enviados), Correlação Treinamento vs. Performance.
+
+Widgets de Ação: "Publicar Novo Playbook", "Atribuir Treinamento", "Analisar Gaps de Skill".
+
+Funcionalidade do Radar de Oportunidades
+Foco: Gaps de conhecimento.
+
+Gatilhos:
+
+Gap de Conteúdo: "Reps estão perdendo deals na fase de 'Objeção de Preço'. Necessário reforço em negociação."
+
+Baixa Adoção: "Novo deck de vendas foi usado em apenas 10% das reuniões desta semana."
+
+Automações e Integrações
+Gemini: "Criador de Roleplay" -> Gera cenários de simulação de vendas para treinamento baseados nas objeções reais mais comuns encontradas nas gravações de calls recentes.
+
+Slack: "Dica do Dia: Use o novo Case de Sucesso X para clientes do setor Y."
+
+Jira: N/A.
+
+<!-- DEPENDÊNCIAS (CDNs) -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://unpkg.com/lucide@latest"></script>
+
+<!-- FONTES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- ESTILOS GLOBAIS UNIFICADOS -->
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        scroll-behavior: smooth;
+    }
+    /* Efeitos e Estilos Customizados */
+    .text-gradient { background: linear-gradient(90deg, #a78bfa, #8b5cf6, #4f46e5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent; }
+    .role-card:hover { transform: translateY(-5px); box-shadow: 0 0 25px rgba(167, 139, 250, 0.2); }
+    button:disabled { cursor: not-allowed; opacity: 0.6; }
+    .hidden-view { display: none; }
+
+    /* Scrollbars */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: #111827; }
+    ::-webkit-scrollbar-thumb { background: #374151; border-radius: 10px; }
+    ::-webkit-scrollbar-thumb:hover { background: #4b5563; }
+
+    /* Kanban */
+    .dragging { opacity: 0.5; transform: rotate(2deg); box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.4); }
+    .drag-over { border-color: #facc15; background-color: rgba(250, 204, 21, 0.1); }
+    
+    /* Tarefas */
+    .task-completed { text-decoration: line-through; opacity: 0.6; }
+
+    /* Propostas (Markdown) */
+    .proposal-output h2 { font-size: 1.25rem; font-weight: 700; color: #facc15; margin-top: 1.5rem; margin-bottom: 0.5rem; border-bottom: 1px solid #374151; padding-bottom: 0.25rem; }
+    .proposal-output h3 { font-size: 1.1rem; font-weight: 600; color: #a78bfa; margin-top: 1rem; margin-bottom: 0.5rem; }
+    .proposal-output p { margin-bottom: 1rem; line-height: 1.6; }
+    .proposal-output ul { list-style-type: disc; margin-left: 1.5rem; margin-bottom: 1rem; }
+    .proposal-output li { margin-bottom: 0.5rem; }
+    .proposal-output table { width: 100%; border-collapse: collapse; margin-bottom: 1rem; }
+    .proposal-output th, .proposal-output td { border: 1px solid #4b5563; padding: 0.75rem; text-align: left; }
+    .proposal-output th { background-color: #1f2937; }
+</style>
+<!-- =================================================================== -->
+<!-- VISÃO: LANDING PAGE (PÁGINA PÚBLICA)                             -->
+<!-- =================================================================== -->
+<div id="view-landing-page">
+    <header class="bg-gray-900/70 backdrop-blur-md sticky top-0 z-50 border-b border-gray-800">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#" class="flex items-center gap-2">
+                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="logoGradientLanding" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;" /><stop offset="50%" style="stop-color:#a78bfa;" /><stop offset="100%" style="stop-color:#facc15;" /></linearGradient></defs><circle cx="12" cy="12" r="11" stroke="url(#logoGradientLanding)" stroke-width="2"/><path d="M9 16V8H12.5C14.433 8 16 9.567 16 11.5C16 13.433 14.433 15 12.5 15H11" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M9 12H12" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <span class="text-xl font-bold text-white">Birth Hub 360</span>
+            </a>
+            <div class="hidden md:flex space-x-8 items-center">
+                <a href="#ferramentas-por-cargo" class="text-slate-400 hover:text-white transition-colors duration-300">Para Equipes</a>
+                <a href="#precos" class="text-slate-400 hover:text-white transition-colors duration-300">Preços</a>
+            </div>
+            <div>
+              <a href="#" data-route="login" class="text-slate-300 hover:text-white mr-4">Entrar</a>
+              <a href="#" data-route="signup" class="bg-amber-400 text-gray-900 font-bold px-5 py-2 rounded-lg hover:bg-amber-300 transition-all duration-300 shadow-lg shadow-amber-500/10">
+                  Começar Grátis 🚀
+              </a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="relative py-24 md:py-32 flex items-center justify-center text-white overflow-hidden">
+            <div class="absolute inset-0 bg-gray-900 z-0"></div>
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-indigo-900/30 via-purple-900/10 to-transparent opacity-70"></div>
+            <div class="relative z-10 text-center px-4">
+                <h1 class="text-4xl md:text-6xl font-extrabold leading-tight mb-4 text-white">A Plataforma Definitiva para <span class="text-gradient">Sales & Innovation</span> ✨</h1>
+                <p class="text-lg md:text-xl text-slate-400 max-w-3xl mx-auto mb-8">Unifique prospecção, fechamento, retenção e estratégia em um ecossistema inteligente. Dê vida às suas metas. 🎯</p>
+                <a href="#" data-route="signup" class="bg-amber-400 text-gray-900 font-bold px-8 py-4 rounded-lg hover:bg-amber-300 transition-all duration-300 shadow-2xl shadow-amber-500/20 text-lg">Agende sua Demonstração 📅</a>
+            </div>
+        </section>
+        <section id="ferramentas-por-cargo" class="py-20 bg-gray-900">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-16"><h2 class="text-3xl md:text-4xl font-bold text-white">Uma Ferramenta para Cada Especialista</h2><p class="text-slate-400 mt-4 max-w-3xl mx-auto">Capacite cada membro da sua operação com módulos desenhados para a excelência.</p></div>
+                <h3 class="text-2xl font-bold text-center mb-8 text-gradient">🎯 Prospecção & Qualificação</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16 max-w-4xl mx-auto">
+                    <div class="role-card bg-gray-800 p-6 rounded-xl transition-all duration-300 border border-gray-700 text-center"><h4 class="text-lg font-bold text-white">BDR 🔭</h4><p class="text-sm text-slate-400 mb-3">Prospecção Ativa (Outbound)</p><p class="text-slate-400 text-sm">Módulo de cadências multi-canal, enriquecimento de leads e automação de follow-ups para maximizar o alcance.</p></div>
+                    <div class="role-card bg-gray-800 p-6 rounded-xl transition-all duration-300 border border-gray-700 text-center"><h4 class="text-lg font-bold text-white">SDR ✅</h4><p class="text-sm text-slate-400 mb-3">Qualificação de Leads (Inbound)</p><p class="text-slate-400 text-sm">Painel de lead scoring com IA, roteiros dinâmicos e agendamento integrado para converter interesse em reuniões.</p></div>
+                </div>
+                <!-- Mais seções de cargos aqui para encurtar a visualização -->
+            </div>
+        </section>
+        <section id="precos" class="py-20 bg-gray-950">
+             <div class="container mx-auto px-6">
+                <div class="text-center mb-12"><h2 class="text-3xl md:text-4xl font-bold text-white">Planos que Evoluem com Você</h2><p class="text-slate-400 mt-4 max-w-2xl mx-auto">Comece com o essencial e escale sem limites. Simples, transparente e poderoso.</p></div>
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
+                    <div class="bg-gray-900 rounded-xl p-8 flex flex-col border border-gray-700"><h3 class="text-xl font-bold text-white">Startup 🚀</h3><p class="text-slate-400 mt-2">Para equipes enxutas</p><p class="text-4xl font-extrabold my-6 text-white">R$ 89<span class="text-lg font-medium text-slate-400">/mês/usuário</span></p><ul class="space-y-4 text-slate-400 flex-grow mb-8"><li class="flex items-start">✅ CRM & Pipeline Visual</li><li class="flex items-start">✅ Módulo SDR (Inbound)</li><li class="flex items-start">✅ Até 1.000 Contatos</li></ul><a href="#" data-route="signup" class="w-full text-center bg-gray-700 text-white font-semibold py-3 rounded-lg hover:bg-gray-600 transition-colors">Começar Agora</a></div>
+                    <div class="bg-gray-900 rounded-xl p-8 flex flex-col relative overflow-hidden ring-2 ring-amber-400"><span class="absolute top-4 right-4 bg-amber-400 text-gray-900 text-xs font-bold px-3 py-1 rounded-full">MAIS POPULAR</span><h3 class="text-xl font-bold text-white">Growth 🔥</h3><p class="text-slate-400 mt-2">Para empresas que aceleram</p><p class="text-4xl font-extrabold my-6 text-white">R$ 159<span class="text-lg font-medium text-slate-400">/mês/usuário</span></p><ul class="space-y-4 text-slate-300 flex-grow mb-8"><li class="flex items-start">✅ <b>Tudo do Startup, e mais:</b></li><li class="flex items-start">✅ Contatos Ilimitados</li><li class="flex items-start">✅ Módulo BDR (Outbound)</li><li class="flex items-start">✅ Automação e Analytics</li></ul><a href="#" data-route="signup" class="w-full text-center bg-amber-400 text-gray-900 font-bold py-3 rounded-lg hover:bg-amber-300 transition-colors">Solicitar Demonstração</a></div>
+                    <div class="bg-gray-900 rounded-xl p-8 flex flex-col border border-gray-700"><h3 class="text-xl font-bold text-white">Enterprise 🏛️</h3><p class="text-slate-400 mt-2">Para operações complexas</p><p class="text-4xl font-extrabold my-6 text-white">Personalizado</p><ul class="space-y-4 text-slate-400 flex-grow mb-8"><li class="flex items-start">✅ <b>Tudo do Growth, e mais:</b></li><li class="flex items-start">✅ Módulos CS e Sales Ops</li><li class="flex items-start">✅ CSM Dedicado & API</li><li class="flex items-start">✅ Suporte Premium 24/7</li></ul><a href="#" data-route="signup" class="w-full text-center bg-gray-700 text-white font-semibold py-3 rounded-lg hover:bg-gray-600 transition-colors">Fale Conosco</a></div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="bg-gray-950 text-slate-400 border-t border-gray-800">
+        <div class="container mx-auto px-6 py-8 text-center"><p class="text-sm">&copy; 2025 Birth Hub Innovation 360. Feito com ❤️ no Brasil.</p></div>
+    </footer>
+</div>
+
+<!-- =================================================================== -->
+<!-- VISÃO: LOGIN                                                      -->
+<!-- =================================================================== -->
+<div id="view-login" class="hidden-view">
+    <div class="flex items-center justify-center min-h-screen p-4 bg-gray-900 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.05)_1px,transparent_0)] bg-[length:20px_20px]">
+        <div class="w-full max-w-md">
+            <div class="bg-gray-800 border border-gray-700 rounded-2xl p-8 shadow-2xl shadow-indigo-900/10">
+                <div class="text-center mb-8"><a href="#" data-route="landing-page" class="inline-block mb-4"><svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="logoGradientLogin" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;" /><stop offset="50%" style="stop-color:#a78bfa;" /><stop offset="100%" style="stop-color:#facc15;" /></linearGradient></defs><circle cx="12" cy="12" r="11" stroke="url(#logoGradientLogin)" stroke-width="2"/></svg></a><h1 class="text-2xl font-bold text-white">Bem-vindo de volta!</h1><p class="text-slate-400">Acesse sua conta para continuar.</p></div>
+                <form class="space-y-6" id="login-form">
+                    <div><label for="email-login" class="block text-sm font-medium text-slate-400 mb-1">E-mail</label><input type="email" id="email-login" value="ana@birthhub.com" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div><label for="password-login" class="block text-sm font-medium text-slate-400 mb-1">Senha</label><input type="password" id="password-login" value="123456" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div class="flex items-center justify-between"><div class="flex items-center"><input id="remember-me" type="checkbox" class="h-4 w-4 rounded bg-gray-700 border-gray-600 text-indigo-500 focus:ring-indigo-600"><label for="remember-me" class="ml-2 block text-sm text-slate-400">Lembrar-me</label></div><div class="text-sm"><a href="#" class="font-semibold text-amber-400 hover:text-amber-300">Esqueceu a senha?</a></div></div>
+                    <div><button type="submit" class="w-full flex justify-center py-3 px-4 rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300">Entrar</button></div>
+                </form>
+            </div>
+            <p class="mt-8 text-center text-sm text-slate-400">Não tem uma conta? <a href="#" data-route="signup" class="font-semibold text-amber-400 hover:text-amber-300">Cadastre-se agora</a></p>
+        </div>
+    </div>
+</div>
+
+<!-- =================================================================== -->
+<!-- VISÃO: CADASTRO (SIGNUP)                                          -->
+<!-- =================================================================== -->
+<div id="view-signup" class="hidden-view">
+    <div class="flex items-center justify-center min-h-screen p-4 bg-gray-900 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.05)_1px,transparent_0)] bg-[length:20px_20px]">
+        <div class="w-full max-w-md">
+            <div class="bg-gray-800 border border-gray-700 rounded-2xl p-8 shadow-2xl shadow-indigo-900/10">
+                <div class="text-center mb-8"><a href="#" data-route="landing-page" class="inline-block mb-4"><svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="logoGradientSignup" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;" /><stop offset="50%" style="stop-color:#a78bfa;" /><stop offset="100%" style="stop-color:#facc15;" /></linearGradient></defs><circle cx="12" cy="12" r="11" stroke="url(#logoGradientSignup)" stroke-width="2"/></svg></a><h1 class="text-2xl font-bold text-white">Crie sua conta</h1><p class="text-slate-400">Comece a transformar suas vendas e inovação hoje.</p></div>
+                <form class="space-y-6">
+                    <div><label for="fullname" class="block text-sm font-medium text-slate-400 mb-1">Nome completo</label><input type="text" id="fullname" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div><label for="company" class="block text-sm font-medium text-slate-400 mb-1">Nome da Empresa</label><input type="text" id="company" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div><label for="email" class="block text-sm font-medium text-slate-400 mb-1">E-mail</label><input type="email" id="email" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div><label for="password" class="block text-sm font-medium text-slate-400 mb-1">Crie uma senha</label><input type="password" id="password" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div>
+                    <div class="flex items-start"><div class="flex items-center h-5"><input id="terms" type="checkbox" class="h-4 w-4 rounded bg-gray-700 border-gray-600 text-indigo-500 focus:ring-indigo-600" required></div><div class="ml-3 text-sm"><label for="terms" class="text-slate-400">Eu concordo com os <a href="#" class="font-semibold text-amber-400 hover:text-amber-300">Termos de Serviço</a></label></div></div>
+                    <div><button type="submit" class="w-full flex justify-center py-3 px-4 rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300">Criar Conta Grátis</button></div>
+                </form>
+            </div>
+            <p class="mt-8 text-center text-sm text-slate-400">Já tem uma conta? <a href="#" data-route="login" class="font-semibold text-amber-400 hover:text-amber-300">Faça login</a></p>
+        </div>
+    </div>
+</div>
+
+<!-- =================================================================== -->
+<!-- VISÃO: APLICAÇÃO PRINCIPAL (PÓS-LOGIN)                            -->
+<!-- =================================================================== -->
+<div id="view-app" class="hidden-view">
+    <div class="flex h-screen bg-gray-900 text-slate-300">
+        <!-- ========== SIDEBAR DE NAVEGAÇÃO ========== -->
+        <aside class="w-20 flex-shrink-0 bg-gray-950 border-r border-gray-800 flex flex-col items-center py-6">
+            <a href="#" data-route="app" data-page="dashboard" class="mb-10"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="logoGradientApp" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#4f46e5;" /><stop offset="50%" style="stop-color:#a78bfa;" /><stop offset="100%" style="stop-color:#facc15;" /></linearGradient></defs><circle cx="12" cy="12" r="11" stroke="url(#logoGradientApp)" stroke-width="2"/></svg></a>
+            <nav class="flex flex-col items-center gap-4" id="sidebar-nav">
+                <a href="#" data-page="dashboard" class="p-3 rounded-lg text-white bg-indigo-600" title="Dashboard"><i data-lucide="layout-dashboard"></i></a>
+                <a href="#" data-page="contacts" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Contatos"><i data-lucide="contact"></i></a>
+                <a href="#" data-page="deals" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Negócios"><i data-lucide="briefcase"></i></a>
+                <a href="#" data-page="tasks" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Tarefas"><i data-lucide="check-square"></i></a>
+                <a href="#" data-page="analytics" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Analytics"><i data-lucide="bar-chart-3"></i></a>
+                <a href="#" data-page="idea-hub" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Hub de Ideias"><i data-lucide="lightbulb"></i></a>
+                <a href="#" data-page="ai-arsenal" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Arsenal de IA"><i data-lucide="brain-circuit"></i></a>
+            </nav>
+            <div class="mt-auto flex flex-col items-center gap-4">
+                <a href="#" data-page="settings" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Configurações"><i data-lucide="settings"></i></a>
+                <a href="#" data-route="login" class="p-3 rounded-lg text-slate-400 hover:bg-gray-800 hover:text-white" title="Sair"><i data-lucide="log-out"></i></a>
+            </div>
+        </aside>
+
+        <!-- ========== CONTEÚDO DINÂMICO DA APLICAÇÃO ========== -->
+        <main class="flex-1 overflow-y-auto">
+            
+            <!-- PÁGINA: DASHBOARD -->
+            <div id="page-dashboard" class="app-page p-8">
+                <header class="flex justify-between items-center mb-8"><div><h1 class="text-3xl font-bold text-white">Bem-vinda, Ana! 👋</h1><p class="text-slate-400">Aqui está um resumo da sua performance hoje.</p></div><div class="flex items-center gap-4"><button class="p-2 rounded-full text-slate-400 hover:bg-gray-800 hover:text-white"><i data-lucide="bell"></i></button><img src="https://placehold.co/40x40/a78bfa/111827?text=A" alt="Avatar do usuário" class="w-10 h-10 rounded-full ring-2 ring-purple-500"></div></header>
+                <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                    <div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><div class="flex items-center justify-between"><h3 class="text-slate-400 font-medium">Meta do Mês 🎯</h3><span class="px-2 py-1 text-xs font-semibold text-green-300 bg-green-800/50 rounded-full">75%</span></div><p class="text-3xl font-bold text-white mt-2">R$ 75.340</p><p class="text-sm text-slate-500">de R$ 100.000</p></div>
+                    <div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-slate-400 font-medium">Negócios Ganhos 🏆</h3><p class="text-3xl font-bold text-white mt-2">12</p><p class="text-sm text-slate-500">+2 vs. mês passado</p></div>
+                    <div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-slate-400 font-medium">Taxa de Conversão ⚡</h3><p class="text-3xl font-bold text-white mt-2">23%</p><p class="text-sm text-slate-500">Média de 20%</p></div>
+                    <!-- NOVO CARD DE INSIGHTS DA IA -->
+                    <div class="bg-gray-800 p-6 rounded-xl border border-amber-400/50 flex flex-col">
+                        <h3 class="text-slate-400 font-medium mb-2">Insight do Dia ✨</h3>
+                        <p id="ai-insight-text" class="text-white flex-grow">Clique no botão para gerar um insight de vendas com a IA.</p>
+                        <button id="generate-insight-button" class="mt-4 w-full flex justify-center items-center gap-2 py-2 px-4 rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300">
+                            <i data-lucide="sparkles" class="w-4 h-4"></i>
+                            Gerar Insight
+                        </button>
+                    </div>
+                </section>
+                <section class="grid grid-cols-1 lg:grid-cols-3 gap-8"><div class="lg:col-span-2 bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-xl font-bold text-white mb-4">Seu Funil de Vendas</h3><div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center"><div><p class="text-2xl font-bold text-blue-400">42</p><p class="text-sm text-slate-400">Qualificação</p></div><div><p class="text-2xl font-bold text-purple-400">18</p><p class="text-sm text-slate-400">Demonstração</p></div><div><p class="text-2xl font-bold text-amber-400">9</p><p class="text-sm text-slate-400">Proposta</p></div><div><p class="text-2xl font-bold text-green-400">5</p><p class="text-sm text-slate-400">Negociação</p></div></div></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-xl font-bold text-white mb-4">Próximas Tarefas 📅</h3><div class="space-y-4"><div class="flex items-center gap-4 p-3 bg-gray-900/50 rounded-lg"><div class="w-10 h-10 flex-shrink-0 bg-red-500/20 text-red-400 flex items-center justify-center rounded-full"><i data-lucide="phone"></i></div><div><p class="font-semibold text-white">Follow-up com a InovaTech</p><p class="text-sm text-slate-400">Hoje, 14:00</p></div></div><div class="flex items-center gap-4 p-3 bg-gray-900/50 rounded-lg"><div class="w-10 h-10 flex-shrink-0 bg-blue-500/20 text-blue-400 flex items-center justify-center rounded-full"><i data-lucide="mail"></i></div><div><p class="font-semibold text-white">Enviar proposta para Soluções Futuras</p><p class="text-sm text-slate-400">Amanhã, 10:00</p></div></div></div></div></section>
+            </div>
+
+            <!-- PÁGINA: CONTATOS -->
+            <div id="page-contacts" class="app-page hidden-view p-8">
+                <header class="flex flex-col md:flex-row justify-between md:items-center mb-8 gap-4"><div><h1 class="text-3xl font-bold text-white">Contatos 📇</h1><p class="text-slate-400">Gerencie todos os seus leads e clientes em um só lugar.</p></div><div class="flex items-center gap-4"><button class="flex items-center gap-2 px-4 py-2 text-sm font-semibold text-white bg-gray-700 rounded-lg hover:bg-gray-600"><i data-lucide="upload-cloud" class="w-4 h-4"></i>Importar</button><button class="flex items-center gap-2 px-4 py-2 text-sm font-bold text-gray-900 bg-amber-400 rounded-lg hover:bg-amber-300"><i data-lucide="plus" class="w-4 h-4"></i>Adicionar Contato</button></div></header>
+                <section class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden"><div class="overflow-x-auto"><table class="w-full text-left"><thead class="bg-gray-900/50"><tr><th class="p-4 font-semibold text-white">Nome</th><th class="p-4 font-semibold text-white">Empresa</th><th class="p-4 font-semibold text-white">Proprietário</th><th class="p-4 font-semibold text-white">Ações</th></tr></thead><tbody class="divide-y divide-gray-700"><tr class="hover:bg-gray-700/50"><td class="p-4 flex items-center gap-3"><img src="https://placehold.co/40x40/facc15/111827?text=B" alt="Avatar" class="w-10 h-10 rounded-full"><span class="font-medium text-white">Bruno Alves</span></td><td class="p-4 text-slate-300">InovaTech</td><td class="p-4 text-slate-300">Ana</td><td class="p-4"><div class="flex gap-2"><button class="p-2 text-slate-400 hover:text-white"><i data-lucide="edit-2" class="w-4 h-4"></i></button><button class="p-2 text-slate-400 hover:text-red-400"><i data-lucide="trash-2" class="w-4 h-4"></i></button></div></td></tr></tbody></table></div></section>
+            </div>
+
+            <!-- PÁGINA: NEGÓCIOS (KANBAN) -->
+            <div id="page-deals" class="app-page hidden-view p-8 flex flex-col h-full">
+                <header class="flex flex-col md:flex-row justify-between md:items-center mb-8 gap-4 flex-shrink-0"><div><h1 class="text-3xl font-bold text-white">Pipeline de Vendas 💼</h1><p class="text-slate-400">Arraste e solte os negócios para atualizar seu progresso.</p></div><div class="flex items-center gap-4"><button id="add-deal-button" class="flex items-center gap-2 px-4 py-2 text-sm font-bold text-gray-900 bg-amber-400 rounded-lg hover:bg-amber-300"><i data-lucide="plus" class="w-4 h-4"></i>Adicionar Negócio</button></div></header>
+                <div class="flex-1 flex gap-6 overflow-x-auto kanban-container pb-4">
+                    <div class="w-80 flex-shrink-0 bg-gray-800 rounded-xl border border-gray-700 flex flex-col"><div class="p-4 border-b border-gray-700"><h3 class="font-semibold text-white">Qualificação</h3><p class="text-sm text-slate-400">R$ 125.000 • 2 negócios</p></div><div class="p-4 space-y-4 overflow-y-auto kanban-column flex-1" data-stage="qualificacao"><div class="bg-gray-900 p-4 rounded-lg border border-gray-700 cursor-grab" draggable="true"><p class="font-semibold text-white">Implantação na Empresa Alfa</p><p class="text-sm text-slate-400 mt-1">R$ 75.000</p></div><div class="bg-gray-900 p-4 rounded-lg border border-gray-700 cursor-grab" draggable="true"><p class="font-semibold text-white">Consultoria de Processos</p><p class="text-sm text-slate-400 mt-1">R$ 50.000</p></div></div></div>
+                    <div class="w-80 flex-shrink-0 bg-gray-800 rounded-xl border border-gray-700 flex flex-col"><div class="p-4 border-b border-gray-700"><h3 class="font-semibold text-white">Demonstração</h3><p class="text-sm text-slate-400">R$ 90.000 • 1 negócio</p></div><div class="p-4 space-y-4 overflow-y-auto kanban-column flex-1" data-stage="demonstracao"><div class="bg-gray-900 p-4 rounded-lg border border-gray-700 cursor-grab" draggable="true"><p class="font-semibold text-white">Expansão de Contrato</p><p class="text-sm text-slate-400 mt-1">R$ 90.000</p></div></div></div>
+                    <div class="w-80 flex-shrink-0 bg-gray-800 rounded-xl border-t-4 border-green-500 flex flex-col"><div class="p-4 border-b border-gray-700"><h3 class="font-semibold text-white">Ganho 🏆</h3><p class="text-sm text-slate-400">R$ 12.000 • 1 negócio</p></div><div class="p-4 space-y-4 overflow-y-auto kanban-column flex-1" data-stage="ganho"><div class="bg-gray-900 p-4 rounded-lg border border-gray-700 cursor-grab" draggable="true"><p class="font-semibold text-white">Licença Premium</p><p class="text-sm text-slate-400 mt-1">R$ 12.000</p></div></div></div>
+                </div>
+            </div>
+
+            <!-- PÁGINA: ANALYTICS -->
+            <div id="page-analytics" class="app-page hidden-view p-8">
+                <header class="flex flex-col md:flex-row justify-between md:items-center mb-8 gap-4"><div><h1 class="text-3xl font-bold text-white">Analytics de Vendas 📊</h1><p class="text-slate-400">Analise a performance e tome decisões baseadas em dados.</p></div><div class="flex items-center gap-2 bg-gray-800 border border-gray-700 rounded-lg p-1"><button class="px-3 py-1 text-sm font-semibold text-white bg-gray-700 rounded-md">Este Mês</button><button class="px-3 py-1 text-sm font-semibold text-slate-400 hover:bg-gray-700 hover:text-white rounded-md">Este Trimestre</button></div></header>
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8"><div class="lg:col-span-2 bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-lg font-semibold text-white mb-4">Faturamento vs. Meta</h3><canvas id="revenueChart"></canvas></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-lg font-semibold text-white mb-4">Ranking de Vendedores 🏆</h3><ul class="space-y-4"><li class="flex items-center gap-4"><span class="text-lg font-bold text-amber-400">1.</span><img src="https://placehold.co/40x40/a78bfa/111827?text=A" alt="Avatar Ana" class="w-10 h-10 rounded-full"><div><p class="font-semibold text-white">Ana</p><p class="text-sm text-green-400">R$ 75.340</p></div></li><li class="flex items-center gap-4"><span class="text-lg font-bold text-slate-400">2.</span><img src="https://placehold.co/40x40/4ade80/111827?text=C" alt="Avatar Carlos" class="w-10 h-10 rounded-full"><div><p class="font-semibold text-white">Carlos</p><p class="text-sm text-green-400">R$ 68.900</p></div></li></ul></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-lg font-semibold text-white mb-4">Funil de Conversão</h3><canvas id="conversionFunnelChart"></canvas></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h3 class="text-lg font-semibold text-white mb-4">Origem dos Negócios</h3><canvas id="dealSourceChart"></canvas></div></div>
+            </div>
+            
+            <!-- PÁGINA: ARSENAL DE IA -->
+            <div id="page-ai-arsenal" class="app-page hidden-view p-8">
+                 <header class="mb-8"><h1 class="text-3xl font-bold text-white">Arsenal de IA 🤖</h1><p class="text-slate-400">Explore e utilize as ferramentas de inteligência artificial para cada cargo da sua equipe.</p></header>
+                 <div class="space-y-12">
+                    <div><h2 class="text-2xl font-bold text-amber-400 mb-4">BDR (Business Development Representative)</h2><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"><div class="bg-gray-800 p-4 rounded-lg border border-gray-700"><a href="#" data-page="ai-email-writer" class="font-semibold text-white hover:underline">Redator de E-mails ✍️</a><p class="text-sm text-slate-400 mt-2">Gere e-mails frios personalizados em segundos.</p></div></div></div>
+                    <div><h2 class="text-2xl font-bold text-amber-400 mb-4">SDR (Sales Development Representative)</h2><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"><div class="bg-gray-800 p-4 rounded-lg border border-gray-700"><a href="#" data-page="ai-lead-qualifier" class="font-semibold text-white hover:underline">Qualificador de Leads ✨</a><p class="text-sm text-slate-400 mt-2">Analise e pontue novos leads inbound instantaneamente.</p></div></div></div>
+                    <div><h2 class="text-2xl font-bold text-amber-400 mb-4">Executivo de Contas</h2><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"><div class="bg-gray-800 p-4 rounded-lg border border-gray-700"><a href="#" data-page="ai-proposal-generator" class="font-semibold text-white hover:underline">Gerador de Propostas 📄</a><p class="text-sm text-slate-400 mt-2">Crie propostas comerciais completas e personalizadas.</p></div></div></div>
+                 </div>
+            </div>
+
+            <!-- PÁGINA: FERRAMENTA DE IA - REDATOR DE E-MAILS -->
+             <div id="page-ai-email-writer" class="app-page hidden-view p-8">
+                <header class="mb-8"><h1 class="text-3xl font-bold text-white">Redator de E-mails de Prospecção ✍️</h1><p class="text-slate-400">Gere e-mails frios personalizados em segundos. Uma ferramenta para o BDR moderno.</p></header>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h2 class="text-xl font-bold text-white mb-4">1. Insira os dados do Lead</h2><form id="email-generator-form" class="space-y-6"><div><label for="lead-name" class="block text-sm font-medium text-slate-400 mb-1">Nome do Contato</label><input type="text" id="lead-name" placeholder="Ex: Ana Silva" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div><div><label for="company-name-email" class="block text-sm font-medium text-slate-400 mb-1">Nome da Empresa</label><input type="text" id="company-name-email" placeholder="Ex: InovaTech" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></div><div><label for="lead-painpoint" class="block text-sm font-medium text-slate-400 mb-1">Principal Desafio ou Dor do Lead</label><textarea id="lead-painpoint" rows="4" placeholder="Ex: Dificuldade em gerenciar o pipeline de vendas e prever resultados." class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></textarea></div><div><button type="submit" id="generate-email-button" class="w-full flex justify-center items-center gap-2 py-3 px-4 border rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300"><i data-lucide="sparkles" class="w-4 h-4"></i>Gerar E-mail</button></div></form></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><div class="flex justify-between items-center mb-4"><h2 class="text-xl font-bold text-white">2. Resultado Gerado</h2><button id="copy-email-button" class="flex items-center gap-2 px-3 py-1 text-xs font-semibold text-white bg-gray-700 rounded-lg hover:bg-gray-600"><i data-lucide="copy" class="w-4 h-4"></i>Copiar</button></div><div class="bg-gray-900/50 border border-gray-700 rounded-lg p-4 h-full min-h-[300px] text-slate-300 whitespace-pre-wrap"><span id="email-placeholder-text" class="text-slate-500">O e-mail gerado pela IA aparecerá aqui...</span><div id="email-loading-spinner" class="hidden items-center justify-center h-full"><div class="animate-spin rounded-full h-12 w-12 border-b-2 border-amber-400"></div></div><p id="generated-email"></p></div></div></div>
+            </div>
+
+            <!-- PÁGINA: FERRAMENTA DE IA - QUALIFICADOR DE LEADS -->
+            <div id="page-ai-lead-qualifier" class="app-page hidden-view p-8">
+                <header class="mb-8"><h1 class="text-3xl font-bold text-white">Qualificador de Leads Inbound ✨</h1><p class="text-slate-400">Cole as informações de um novo lead para receber uma análise completa da IA. Ferramenta para SDRs.</p></header>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                    <div class="bg-gray-800 p-6 rounded-xl border border-gray-700">
+                        <h2 class="text-xl font-bold text-white mb-4">1. Cole as informações do Lead</h2>
+                        <form id="lead-qualifier-form" class="space-y-6">
+                            <div>
+                                <label for="lead-info" class="block text-sm font-medium text-slate-400 mb-1">Informações do Formulário, E-mail, etc.</label>
+                                <textarea id="lead-info" rows="12" placeholder="Ex: Nome: Carlos Souza, Empresa: TechCorp, Cargo: Gerente de TI, E-mail: carlos.s@techcorp.com, Mensagem: Gostaria de saber mais sobre a integração com o sistema SAP." class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-3 text-white focus:ring-2 focus:ring-amber-400" required></textarea>
+                            </div>
+                            <div>
+                                <button type="submit" id="qualify-lead-button" class="w-full flex justify-center items-center gap-2 py-3 px-4 border rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300">
+                                    <i data-lucide="sparkles" class="w-4 h-4"></i>
+                                    Qualificar com IA
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="bg-gray-800 p-6 rounded-xl border border-gray-700">
+                        <h2 class="text-xl font-bold text-white mb-4">2. Análise da IA</h2>
+                        <div id="qualifier-output-container" class="space-y-4">
+                            <span id="qualifier-placeholder-text" class="text-slate-500">A análise do lead aparecerá aqui...</span>
+                            <div id="qualifier-loading-spinner" class="hidden items-center justify-center h-full py-10">
+                                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-amber-400"></div>
+                            </div>
+                            <div id="qualifier-results" class="hidden">
+                                <div class="bg-gray-900/50 p-4 rounded-lg">
+                                    <h3 class="font-semibold text-amber-400">Lead Score</h3>
+                                    <p id="lead-score" class="text-3xl font-bold text-white"></p>
+                                </div>
+                                <div class="bg-gray-900/50 p-4 rounded-lg">
+                                    <h3 class="font-semibold text-amber-400">Resumo da Qualificação</h3>
+                                    <p id="lead-summary" class="text-sm"></p>
+                                </div>
+                                <div class="bg-gray-900/50 p-4 rounded-lg">
+                                    <h3 class="font-semibold text-amber-400">Perguntas Sugeridas para a Chamada</h3>
+                                    <ul id="lead-questions" class="list-disc list-inside text-sm space-y-1"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PÁGINA: FERRAMENTA DE IA - GERADOR DE PROPOSTAS -->
+            <div id="page-ai-proposal-generator" class="app-page hidden-view p-8">
+                <header class="mb-8"><h1 class="text-3xl font-bold text-white">Gerador de Propostas Dinâmicas 📄</h1><p class="text-slate-400">Crie propostas comerciais completas e personalizadas.</p></header>
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8"><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h2 class="text-xl font-bold text-white mb-4">1. Detalhes da Proposta</h2><form id="proposal-generator-form" class="space-y-4"><div><label for="client-name" class="block text-sm font-medium text-slate-400 mb-1">Nome do Cliente</label><input type="text" id="client-name" placeholder="Ex: Bruno Alves" class="w-full bg-gray-900/50 border border-gray-700 rounded-lg p-2 text-white" required></div><div><button type="submit" id="generate-proposal-button" class="w-full flex justify-center items-center gap-2 py-3 px-4 mt-6 rounded-lg text-sm font-bold text-gray-900 bg-amber-400 hover:bg-amber-300"><i data-lucide="sparkles" class="w-4 h-4"></i>Gerar Proposta</button></div></form></div><div class="bg-gray-800 p-6 rounded-xl border border-gray-700"><h2 class="text-xl font-bold text-white mb-4">2. Proposta Gerada</h2><div id="proposal-output-container" class="bg-gray-900/50 border border-gray-700 rounded-lg p-4 h-full min-h-[400px] text-slate-300 overflow-y-auto proposal-output"><span id="proposal-placeholder-text" class="text-slate-500">A proposta gerada pela IA aparecerá aqui...</span><div id="proposal-loading-spinner" class="hidden items-center justify-center h-full"><div class="animate-spin rounded-full h-12 w-12 border-b-2 border-amber-400"></div></div><div id="generated-proposal"></div></div></div></div>
+            </div>
+
+        </main>
+    </div>
+</div>
+
+<!-- MODAL: Adicionar Negócio -->
+<div id="add-deal-modal" class="hidden-view fixed inset-0 bg-gray-900/80 backdrop-blur-sm flex items-center justify-center p-4 z-50">
+    <div class="bg-gray-800 w-full max-w-lg rounded-2xl border border-gray-700 shadow-xl p-8"><div class="flex justify-between items-center mb-6"><h2 class="text-2xl font-bold text-white">Adicionar Novo Negócio</h2><button id="close-modal-button" class="text-slate-400 hover:text-white"><i data-lucide="x" class="w-6 h-6"></i></button></div><form class="space-y-6"><div class="flex justify-end gap-4 pt-4"><button type="button" id="cancel-button" class="px-6 py-2 text-sm font-semibold text-white bg-gray-700 rounded-lg hover:bg-gray-600">Cancelar</button><button type="submit" class="px-6 py-2 text-sm font-bold text-gray-900 bg-amber-400 rounded-lg hover:bg-amber-300">Salvar Negócio</button></div></form></div>
+</div>
+
+
+<!-- =================================================================== -->
+<!-- JAVASCRIPT UNIFICADO                                              -->
+<!-- =================================================================== -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // =================================
+        // ROTEAMENTO E NAVEGAÇÃO
+        // =================================
+        const topLevelViews = document.querySelectorAll('#view-landing-page, #view-login, #view-signup, #view-app');
+        const appPages = document.querySelectorAll('.app-page');
+        const sidebarLinks = document.querySelectorAll('#sidebar-nav a');
+
+        function showView(viewId) {
+            topLevelViews.forEach(view => view.classList.add('hidden-view'));
+            const viewToShow = document.getElementById(`view-${viewId}`);
+            if (viewToShow) viewToShow.classList.remove('hidden-view');
+            lucide.createIcons();
+        }
+
+        function showAppPage(pageId) {
+            appPages.forEach(page => page.classList.add('hidden-view'));
+            const pageToShow = document.getElementById(`page-${pageId}`);
+            if (pageToShow) pageToShow.classList.remove('hidden-view');
+
+            sidebarLinks.forEach(link => {
+                link.classList.remove('bg-indigo-600', 'text-white');
+                link.classList.add('text-slate-400', 'hover:bg-gray-800');
+                if (link.dataset.page === pageId) {
+                    link.classList.add('bg-indigo-600', 'text-white');
+                    link.classList.remove('text-slate-400', 'hover:bg-gray-800');
+                }
+            });
+
+            if (pageId === 'analytics') initAnalyticsCharts();
+            if (pageId === 'deals') initKanban();
+            
+            lucide.createIcons();
+        }
+
+        document.body.addEventListener('click', (e) => {
+            const target = e.target.closest('[data-route], [data-page]');
+            if (!target) return;
+            e.preventDefault();
+            const route = target.dataset.route;
+            const page = target.dataset.page;
+            if (route) showView(route);
+            if (page) showAppPage(page);
+        });
+
+        const loginForm = document.getElementById('login-form');
+        if(loginForm) {
+            loginForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                showView('app');
+                showAppPage('dashboard');
+            });
+        }
+
+        // =================================
+        // INICIALIZAÇÃO DE COMPONENTES E LÓGICA DAS PÁGINAS
+        // =================================
+
+        function initKanban() {
+            const draggables = document.querySelectorAll('#page-deals [draggable="true"]');
+            const columns = document.querySelectorAll('#page-deals .kanban-column');
+            draggables.forEach(draggable => {
+                draggable.addEventListener('dragstart', () => draggable.classList.add('dragging'));
+                draggable.addEventListener('dragend', () => draggable.classList.remove('dragging'));
+            });
+            columns.forEach(column => {
+                column.addEventListener('dragover', e => { e.preventDefault(); column.classList.add('drag-over'); });
+                column.addEventListener('dragleave', () => column.classList.remove('drag-over'));
+                column.addEventListener('drop', e => {
+                    e.preventDefault();
+                    column.classList.remove('drag-over');
+                    const draggable = document.querySelector('.dragging');
+                    if (draggable) column.appendChild(draggable);
+                });
+            });
+        }
+
+        const modal = document.getElementById('add-deal-modal');
+        const openModalButton = document.getElementById('add-deal-button');
+        const closeModalButton = document.getElementById('close-modal-button');
+        const cancelButton = document.getElementById('cancel-button');
+        if(modal && openModalButton && closeModalButton && cancelButton) {
+            const openModal = () => modal.classList.remove('hidden-view');
+            const closeModal = () => modal.classList.add('hidden-view');
+            openModalButton.addEventListener('click', openModal);
+            closeModalButton.addEventListener('click', closeModal);
+            cancelButton.addEventListener('click', closeModal);
+            modal.addEventListener('click', (event) => {
+                if (event.target === modal) closeModal();
+            });
+        }
+
+        let charts = {};
+        function initAnalyticsCharts() {
+            if (charts.revenue) charts.revenue.destroy();
+            if (charts.funnel) charts.funnel.destroy();
+            if (charts.source) charts.source.destroy();
+            const ctxRevenue = document.getElementById('revenueChart')?.getContext('2d');
+            const ctxFunnel = document.getElementById('conversionFunnelChart')?.getContext('2d');
+            const ctxSource = document.getElementById('dealSourceChart')?.getContext('2d');
+            if (!ctxRevenue || !ctxFunnel || !ctxSource) return;
+            Chart.defaults.color = '#94a3b8';
+            Chart.defaults.font.family = 'Poppins';
+            charts.revenue = new Chart(ctxRevenue, { type: 'line', data: { labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun'], datasets: [{ label: 'Faturamento', data: [50, 65, 80, 75, 90, 110], borderColor: '#facc15', backgroundColor: 'rgba(250, 204, 21, 0.1)', fill: true, tension: 0.4 }, { label: 'Meta', data: [70, 75, 80, 85, 90, 95], borderColor: '#6366f1', borderDash: [5, 5], fill: false, tension: 0.4 }] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } } });
+            charts.funnel = new Chart(ctxFunnel, { type: 'bar', data: { labels: ['Qualificação', 'Demonstração', 'Proposta', 'Ganho'], datasets: [{ label: 'Negócios', data: [100, 55, 25, 12], backgroundColor: ['rgba(99, 102, 241, 0.7)', 'rgba(167, 139, 250, 0.7)', 'rgba(250, 204, 21, 0.7)', 'rgba(74, 222, 128, 0.7)'], borderWidth: 0 }] }, options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } } });
+            charts.source = new Chart(ctxSource, { type: 'doughnut', data: { labels: ['Outbound', 'Inbound', 'Indicação', 'Parceiros'], datasets: [{ label: 'Origem', data: [40, 35, 15, 10], backgroundColor: ['#4f46e5', '#a78bfa', '#facc15', '#3b82f6'], hoverOffset: 4, borderWidth: 0 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } });
+        }
+        
+        // --- LÓGICA DAS FERRAMENTAS DE IA ---
+
+        // Função Genérica para API Gemini
+         async function callGeminiAPI(prompt, isJson = false) {
+            let chatHistory = [{ role: "user", parts: [{ text: prompt }] }];
+            const payload = { contents: chatHistory };
+            
+            if (isJson) {
+                payload.generationConfig = {
+                    responseMimeType: "application/json",
+                };
+            }
+
+            const apiKey = ""; // A chave é injetada pelo ambiente
+            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
+            
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            if (!response.ok) throw new Error(`API Error: ${response.statusText}`);
+            const result = await response.json();
+            
+            if (result.candidates && result.candidates[0]?.content?.parts[0]?.text) {
+                return result.candidates[0].content.parts[0].text;
+            } else {
+                throw new Error("A resposta da API não contém o texto esperado.");
+            }
+        }
+        
+        // Dashboard: Insight do Dia
+        const generateInsightButton = document.getElementById('generate-insight-button');
+        if(generateInsightButton) {
+            generateInsightButton.addEventListener('click', async () => {
+                const insightTextEl = document.getElementById('ai-insight-text');
+                const originalButtonText = generateInsightButton.innerHTML;
+                generateInsightButton.disabled = true;
+                generateInsightButton.innerHTML = '<i data-lucide="sparkles" class="w-4 h-4 animate-spin"></i> Gerando...';
+                lucide.createIcons();
+                insightTextEl.textContent = 'Analisando dados...'
+                
+                const prompt = "Gere um insight de vendas curto e acionável para um vendedor B2B de uma empresa de tecnologia SaaS. O insight deve ser prático e direto. Exemplo: 'Notei que seus e-mails de follow-up enviados às terças-feiras têm uma taxa de abertura 20% maior. Tente concentrar seus follow-ups nesse dia.'";
+                try {
+                    const insight = await callGeminiAPI(prompt);
+                    insightTextEl.textContent = insight;
+                } catch (error) {
+                    insightTextEl.textContent = "Não foi possível gerar um insight. Tente novamente.";
+                } finally {
+                    generateInsightButton.disabled = false;
+                    generateInsightButton.innerHTML = originalButtonText;
+                    lucide.createIcons();
+                }
+            });
+        }
+
+        // Ferramenta IA: Redator de E-mails
+        const emailForm = document.getElementById('email-generator-form');
+        if(emailForm) {
+            emailForm.addEventListener('submit', async (event) => {
+                event.preventDefault();
+                const leadName = document.getElementById('lead-name').value;
+                const companyName = document.getElementById('company-name-email').value;
+                const leadPainpoint = document.getElementById('lead-painpoint').value;
+                if (!leadName || !companyName || !leadPainpoint) return;
+
+                const btn = document.getElementById('generate-email-button');
+                const placeholder = document.getElementById('email-placeholder-text');
+                const spinner = document.getElementById('email-loading-spinner');
+                const outputEl = document.getElementById('generated-email');
+
+                btn.disabled = true;
+                btn.innerHTML = '<i data-lucide="sparkles" class="w-4 h-4 animate-spin"></i> Gerando...';
+                lucide.createIcons();
+                placeholder.classList.add('hidden-view');
+                spinner.classList.remove('hidden-view');
+                spinner.classList.add('flex');
+                outputEl.textContent = '';
+
+                const prompt = `Escreva um e-mail de prospecção (cold email) curto, profissional e amigável. Meu nome é [SEU NOME] e minha empresa é a Birth Hub 360. O e-mail é para: ${leadName}, que trabalha na empresa ${companyName}. O principal desafio que a empresa ${companyName} enfrenta é: "${leadPainpoint}". O objetivo do e-mail é apresentar a Birth Hub 360 como uma solução para esse desafio e sugerir uma breve conversa de 15 minutos. O tom deve ser de especialista, mas acessível. O e-mail deve começar com "Olá, ${leadName}," e terminar com "Atenciosamente,\n[SEU NOME]".`;
+                
+                try {
+                    const responseText = await callGeminiAPI(prompt);
+                    outputEl.textContent = responseText;
+                } catch (error) {
+                    outputEl.textContent = "Ocorreu um erro ao gerar o e-mail. Por favor, tente novamente.";
+                } finally {
+                    btn.disabled = false;
+                    btn.innerHTML = '<i data-lucide="sparkles" class="w-4 h-4"></i> Gerar E-mail';
+                    lucide.createIcons();
+                    spinner.classList.add('hidden-view');
+                    spinner.classList.remove('flex');
+                }
+            });
+        }
+
+        // Ferramenta IA: Qualificador de Leads
+        const qualifierForm = document.getElementById('lead-qualifier-form');
+        if(qualifierForm) {
+            qualifierForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const leadInfo = document.getElementById('lead-info').value;
+                if(!leadInfo) return;
+
+                const btn = document.getElementById('qualify-lead-button');
+                const placeholder = document.getElementById('qualifier-placeholder-text');
+                const spinner = document.getElementById('qualifier-loading-spinner');
+                const resultsContainer = document.getElementById('qualifier-results');
+
+                btn.disabled = true;
+                btn.innerHTML = '<i data-lucide="sparkles" class="w-4 h-4 animate-spin"></i> Qualificando...';
+                lucide.createIcons();
+                placeholder.classList.add('hidden-view');
+                resultsContainer.classList.add('hidden');
+                spinner.classList.remove('hidden-view');
+                spinner.classList.add('flex');
+
+                const prompt = `Analise as seguintes informações de um lead inbound e retorne um JSON com a seguinte estrutura: {"score": <um número de 0 a 100 indicando a qualidade do lead>, "summary": "<um resumo conciso do perfil e interesse do lead>", "questions": ["<pergunta 1>", "<pergunta 2>", "<pergunta 3>"]}. As perguntas devem ser abertas e focadas em entender melhor o desafio do lead. Informações do lead: "${leadInfo}"`;
+
+                try {
+                    const jsonString = await callGeminiAPI(prompt, true);
+                    const data = JSON.parse(jsonString);
+
+                    document.getElementById('lead-score').textContent = `${data.score}/100`;
+                    document.getElementById('lead-summary').textContent = data.summary;
+                    const questionsList = document.getElementById('lead-questions');
+                    questionsList.innerHTML = '';
+                    data.questions.forEach(q => {
+                        const li = document.createElement('li');
+                        li.textContent = q;
+                        questionsList.appendChild(li);
+                    });
+                    resultsContainer.classList.remove('hidden');
+                } catch (error) {
+                    console.error(error);
+                    document.getElementById('lead-summary').textContent = "Ocorreu um erro ao analisar o lead.";
+                    resultsContainer.classList.remove('hidden');
+                } finally {
+                    btn.disabled = false;
+                    btn.innerHTML = '<i data-lucide="sparkles" class="w-4 h-4"></i> Qualificar com IA';
+                    lucide.createIcons();
+                    spinner.classList.add('hidden-view');
+                    spinner.classList.remove('flex');
+                }
+            });
+        }
+
+        // =================================
+        // ESTADO INICIAL
+        // =================================
+        showView('landing-page');
+    });
+</script>

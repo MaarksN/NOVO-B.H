@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birth Hub Innovation 360</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg-primary: #F4F7FE;
+            --bg-secondary: #FFFFFF;
+            --text-primary: #1E293B;
+            --text-secondary: #475569;
+            --accent-primary: #4F46E5;
+            --accent-secondary: #10B981;
+            --border-color: #E2E8F0;
+            --font-heading: 'Poppins', sans-serif;
+            --font-body: 'Inter', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-body);
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+        }
+
+        .card, .tool-card, .entry-card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 1.5rem;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before, .tool-card::before, .entry-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(79, 70, 229, 0.08) 0%, rgba(79, 70, 229, 0) 70%);
+            transition: opacity 0.5s ease;
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .card:hover::before, .tool-card:hover::before, .entry-card:hover::before {
+            opacity: 1;
+            animation: rotateGlow 5s linear infinite;
+        }
+
+        @keyframes rotateGlow {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .tool-card:hover, .entry-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: 0 20px 40px rgba(30, 41, 59, 0.1);
+            border-color: var(--accent-primary);
+        }
+
+        .btn-ai {
+            background: linear-gradient(45deg, #4F46E5 0%, #10B981 100%);
+            color: white;
+            transition: all 0.3s ease;
+            border-radius: 1rem;
+            box-shadow: 0 4px 15px rgba(79, 70, 229, 0.2);
+            font-weight: 600;
+        }
+        .btn-ai:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 7px 20px rgba(79, 70, 229, 0.3);
+        }
+        .btn-ai:disabled { opacity: 0.7; cursor: not-allowed; }
+
+        .btn-audio {
+            background: linear-gradient(45deg, #8B5CF6 0%, #EC4899 100%);
+            color: white;
+            border-radius: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .btn-back {
+            background-color: #E2E8F0;
+            color: #475569;
+            border-radius: 1rem;
+            transition: all 0.2s ease;
+        }
+
+        .page-header {
+             font-size: 2.5rem;
+             font-weight: 800;
+             background: linear-gradient(45deg, var(--accent-primary), #8B5CF6);
+             -webkit-background-clip: text;
+             -webkit-text-fill-color: transparent;
+        }
+
+        .view { display: none; }
+        #dashboard-view { display: block; }
+        
+        .ai-output-container {
+            background-color: #f8fafc;
+            border-radius: 1rem;
+            padding: 1.5rem;
+            border: 1px solid #e2e8f0;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #334155;
+            white-space: pre-wrap;
+            min-height: 150px;
+        }
+
+        .spinner {
+            border: 3px solid rgba(0, 0, 0, 0.1);
+            border-top: 3px solid #4F46E5;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+
+        .ai-badge {
+            background: linear-gradient(45deg, #FDE68A, #F59E0B);
+            color: #78350F;
+            font-size: 0.65rem;
+            padding: 2px 8px;
+            border-radius: 9999px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body class="h-screen overflow-hidden">
+
+    <!-- Main Content Area -->
+    <main class="w-full h-full p-6 md:p-12 overflow-y-auto">
+        
+        <!-- DASHBOARD VIEW -->
+        <div id="dashboard-view" class="view" data-aos="fade-in">
+            <div class="flex items-center justify-between mb-12">
+                <div class="flex items-center space-x-4">
+                    <div class="w-14 h-14 bg-indigo-600 rounded-2xl flex items-center justify-center shadow-lg">
+                        <i data-lucide="layout-grid" class="text-white w-8 h-8"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-4xl font-black text-slate-800 tracking-tight">Birth Hub 360</h1>
+                        <p class="text-slate-500 font-medium">Ecossistema de Inteligência Integrado ✨</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+                <div onclick="showView('cockpit-view')" class="entry-card p-10 cursor-pointer group">
+                    <div class="flex flex-col h-full">
+                        <div class="w-20 h-20 bg-indigo-50 rounded-3xl flex items-center justify-center mb-6">
+                            <i data-lucide="rocket" class="w-10 h-10 text-indigo-600"></i>
+                        </div>
+                        <h2 class="text-3xl font-extrabold text-slate-800 mb-3">Cockpit de Vendas</h2>
+                        <p class="text-lg text-slate-500 leading-relaxed">Operação assistida por IA. Gere scripts de elite, contorne objeções e otimize seu funil em tempo real.</p>
+                        <div class="mt-8 flex items-center text-indigo-600 font-bold text-lg">
+                            Acessar Cockpit <i data-lucide="arrow-right" class="ml-2 w-6 h-6"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div onclick="showView('radar-view')" class="entry-card p-10 cursor-pointer group">
+                    <div class="flex flex-col h-full">
+                        <div class="w-20 h-20 bg-emerald-50 rounded-3xl flex items-center justify-center mb-6">
+                            <i data-lucide="radar" class="w-10 h-10 text-emerald-600"></i>
+                        </div>
+                        <h2 class="text-3xl font-extrabold text-slate-800 mb-3">Radar de Oportunidades ✨</h2>
+                        <p class="text-lg text-slate-500 leading-relaxed">Inteligência profunda via Gemini. Rastreie contas e receba dossiês estratégicos completos.</p>
+                        <div class="mt-8 flex items-center text-emerald-600 font-bold text-lg">
+                            Ligar Radar <i data-lucide="arrow-right" class="ml-2 w-6 h-6"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- COCKPIT VIEW -->
+        <div id="cockpit-view" class="view" data-aos="fade-up">
+            <div class="mb-10">
+                <button onclick="showView('dashboard-view')" class="btn-back px-4 py-2 flex items-center mb-4 text-sm font-bold">
+                    <i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Voltar ao Início
+                </button>
+                <h2 class="page-header">Cockpit de Vendas</h2>
+                <p class="text-lg text-slate-500">Módulos especializados com suporte de LLM ✨.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <div onclick="showView('bdr-view')" class="tool-card p-8 cursor-pointer">
+                    <span class="ai-badge mb-2">IA Ativa</span>
+                    <i data-lucide="target" class="text-blue-600 w-10 h-10 mb-4"></i>
+                    <h3 class="text-xl font-bold">BDR Automático ✨</h3>
+                    <p class="text-slate-500 text-sm">Geração de sequências de prospecção.</p>
+                </div>
+
+                <div onclick="showView('ae-view')" class="tool-card p-8 cursor-pointer">
+                    <span class="ai-badge mb-2">IA + Áudio</span>
+                    <i data-lucide="user-check" class="text-teal-600 w-10 h-10 mb-4"></i>
+                    <h3 class="text-xl font-bold">Executivo de Elite ✨</h3>
+                    <p class="text-slate-500 text-sm">Simulador de objeções com voz.</p>
+                </div>
+
+                <div onclick="showView('sales-ops-view')" class="tool-card p-8 cursor-pointer">
+                    <span class="ai-badge mb-2">Análise de Dados</span>
+                    <i data-lucide="settings-2" class="text-slate-600 w-10 h-10 mb-4"></i>
+                    <h3 class="text-xl font-bold">Sales Ops ✨</h3>
+                    <p class="text-slate-500 text-sm">Diagnóstico técnico de processos.</p>
+                </div>
+
+                <div onclick="showView('vendedor-interno-view')" class="tool-card p-8 cursor-pointer">
+                    <span class="ai-badge mb-2">Inside Support</span>
+                    <i data-lucide="monitor-smartphone" class="text-cyan-600 w-10 h-10 mb-4"></i>
+                    <h3 class="text-xl font-bold">Vendedor Interno ✨</h3>
+                    <p class="text-slate-500 text-sm">Análise de tom e próximos passos.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- RADAR VIEW -->
+        <div id="radar-view" class="view" data-aos="fade-up">
+            <button onclick="showView('dashboard-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="arrow-left" class="mr-1 w-4 h-4"></i> Início</button>
+            <h2 class="page-header">Radar de Oportunidades ✨</h2>
+            <div class="card p-10 max-w-4xl mx-auto">
+                <div class="flex gap-4 mb-10">
+                    <input type="text" id="radar-input" class="flex-1 p-5 border rounded-2xl bg-slate-50 text-xl focus:outline-none focus:ring-2 focus:ring-emerald-500" placeholder="Digite o nome da empresa ou domínio (ex: nubank.com.br)">
+                    <button onclick="runRadarAnalysis()" id="radar-btn" class="btn-ai px-10 text-xl flex items-center space-x-2">
+                        <span>Rastrear ✨</span>
+                    </button>
+                </div>
+                <div id="radar-loading" class="hidden text-center py-10">
+                    <div class="spinner mx-auto mb-4"></div>
+                    <p class="text-slate-600 font-bold animate-pulse">O Gemini está minerando dados estratégicos...</p>
+                </div>
+                <div id="radar-output" class="ai-output-container hidden"></div>
+            </div>
+        </div>
+
+        <!-- BDR VIEW -->
+        <div id="bdr-view" class="view" data-aos="fade-up">
+            <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+            <h2 class="page-header">BDR Automático ✨</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+                <div class="card p-8">
+                    <div class="space-y-4">
+                        <label class="block text-sm font-bold text-slate-700">Empresa e Cargo do Decisor</label>
+                        <input type="text" id="bdr-target" class="w-full p-4 border rounded-xl bg-slate-50" placeholder="Ex: Diretor de Vendas na Ambev">
+                        <label class="block text-sm font-bold text-slate-700">Qual o seu produto?</label>
+                        <input type="text" id="bdr-product" class="w-full p-4 border rounded-xl bg-slate-50" placeholder="Ex: Software de Logística Reversa">
+                        <button onclick="runBDRPitch()" id="bdr-btn" class="btn-ai w-full py-4 text-lg">Gerar Kit de Abordagem ✨</button>
+                    </div>
+                </div>
+                <div class="card p-8 bg-indigo-50 border-indigo-100">
+                    <h3 class="font-bold text-indigo-900 mb-4 flex items-center"><i data-lucide="mail" class="mr-2 w-5 h-5"></i> Sequência Sugerida</h3>
+                    <div id="bdr-output" class="ai-output-container">Aguardando definição do alvo...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- AE VIEW -->
+        <div id="ae-view" class="view" data-aos="fade-up">
+            <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+            <h2 class="page-header">Executivo de Elite ✨</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+                <div class="card p-8">
+                    <p class="mb-4 text-slate-500">Treine contra as objeções mais difíceis do seu mercado.</p>
+                    <div class="space-y-4">
+                        <textarea id="ae-objection" class="w-full h-32 p-4 border rounded-xl bg-slate-50" placeholder="Cole aqui a objeção do cliente (Ex: Tá caro, não tenho tempo, já uso o concorrente...)"></textarea>
+                        <button onclick="runAERebuttal()" id="ae-btn" class="btn-ai w-full py-4 text-lg">Gerar Rebatida Matadora ✨</button>
+                    </div>
+                </div>
+                <div class="card p-8 bg-indigo-50 border-indigo-100 flex flex-col">
+                    <div id="ae-output" class="ai-output-container flex-1">Script de fechamento aparecerá aqui.</div>
+                    <div id="ae-audio-box" class="mt-6 hidden">
+                        <button onclick="playObjectionVoice()" id="ae-audio-btn" class="btn-audio w-full py-4 flex items-center justify-center space-x-3 shadow-lg">
+                            <i data-lucide="play-circle" class="w-6 h-6"></i>
+                            <span>Ouvir Voz do Cliente ✨</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SALES OPS VIEW -->
+        <div id="sales-ops-view" class="view" data-aos="fade-up">
+            <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+            <h2 class="page-header">Otimizador de Funil ✨</h2>
+            <div class="card p-10 max-w-4xl mx-auto">
+                <p class="mb-6 font-bold text-slate-700">Descreva um gargalo no seu processo comercial:</p>
+                <textarea id="ops-input" class="w-full h-48 p-6 border rounded-2xl bg-slate-50 mb-6 text-lg" placeholder="Ex: Meus leads ficam parados 10 dias na etapa de negociação sem interação..."></textarea>
+                <button onclick="runOpsDiagnosis()" id="ops-btn" class="btn-ai w-full py-5 text-xl">Diagnosticar Processo ✨</button>
+                <div id="ops-output" class="ai-output-container mt-10 hidden"></div>
+            </div>
+        </div>
+
+        <!-- VENDEDOR INTERNO VIEW -->
+        <div id="vendedor-interno-view" class="view" data-aos="fade-up">
+            <button onclick="showView('cockpit-view')" class="btn-back px-4 py-2 flex items-center mb-6 font-bold"><i data-lucide="chevron-left" class="mr-1 w-4 h-4"></i> Cockpit</button>
+            <h2 class="page-header">Vendedor Interno Assistido ✨</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-8">
+                <div class="card p-8">
+                    <h3 class="font-bold mb-4">Análise de Mensagem</h3>
+                    <textarea id="vi-input" class="w-full h-48 p-4 border rounded-xl bg-slate-50 mb-4" placeholder="Cole a última mensagem recebida pelo WhatsApp ou E-mail..."></textarea>
+                    <button onclick="runVIAnalysis()" id="vi-btn" class="btn-ai w-full py-4 text-lg">Analisar Tom e Intenção ✨</button>
+                </div>
+                <div id="vi-output" class="ai-output-container">Insights sobre a negociação remota aparecerão aqui.</div>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({ duration: 800, once: true });
+        lucide.createIcons();
+
+        const apiKey = "";
+        const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${apiKey}`;
+        const ttsUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent?key=${apiKey}`;
+
+        // Utility: Exponential Backoff Fetch
+        async function fetchWithRetry(url, options, retries = 5, delay = 1000) {
+            for (let i = 0; i < retries; i++) {
+                try {
+                    const response = await fetch(url, options);
+                    if (response.ok) return await response.json();
+                } catch (e) {
+                    if (i === retries - 1) throw e;
+                }
+                await new Promise(r => setTimeout(r, delay));
+                delay *= 2;
+            }
+        }
+
+        // Logic: Call Gemini Text
+        async function callGemini(prompt, btnId, outId) {
+            const btn = document.getElementById(btnId);
+            const out = document.getElementById(outId);
+            const originalText = btn.innerHTML;
+
+            btn.disabled = true;
+            btn.innerHTML = `<i class="fas fa-circle-notch fa-spin mr-2"></i> IA Processando...`;
+            out.classList.remove('hidden');
+            out.innerHTML = "O Gemini está desenhando a estratégia...";
+
+            try {
+                const data = await fetchWithRetry(geminiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        contents: [{ parts: [{ text: prompt }] }],
+                        generationConfig: { temperature: 0.7 }
+                    })
+                });
+                const text = data.candidates?.[0]?.content?.parts?.[0]?.text || "Falha na resposta.";
+                out.innerText = text;
+            } catch (err) {
+                out.innerText = "Erro na conexão com o cérebro da IA. Tente novamente.";
+            } finally {
+                btn.innerHTML = originalText;
+                btn.disabled = false;
+            }
+        }
+
+        // Feature: Text to Speech (Voz do Cliente)
+        async function playObjectionVoice() {
+            const text = document.getElementById('ae-objection').value;
+            if(!text) return;
+            const btn = document.getElementById('ae-audio-btn');
+            const original = btn.innerHTML;
+            btn.innerHTML = `<i class="fas fa-spinner fa-spin mr-2"></i> Gerando Voz...`;
+
+            try {
+                const response = await fetch(ttsUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        contents: [{ parts: [{ text: `Diga esta frase com um tom de cliente cético ou levemente irritado: ${text}` }] }],
+                        generationConfig: {
+                            responseModalities: ["AUDIO"],
+                            speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: "Puck" } } }
+                        },
+                        model: "gemini-2.5-flash-preview-tts"
+                    })
+                });
+                const result = await response.json();
+                const pcmData = result.candidates[0].content.parts[0].inlineData.data;
+                
+                // Conversão PCM para WAV baseada na especificação do ambiente
+                const binaryString = atob(pcmData);
+                const len = binaryString.length;
+                const bytes = new Uint8Array(len);
+                for (let i = 0; i < len; i++) bytes[i] = binaryString.charCodeAt(i);
+                const blob = new Blob([bytes], { type: 'audio/wav' });
+                const url = URL.createObjectURL(blob);
+                new Audio(url).play();
+            } catch (e) {
+                console.error("TTS Error:", e);
+            } finally {
+                btn.innerHTML = original;
+            }
+        }
+
+        function showView(viewId) {
+            document.querySelectorAll('.view').forEach(v => v.style.display = 'none');
+            const target = document.getElementById(viewId);
+            if(target) {
+                target.style.display = 'block';
+                lucide.createIcons();
+                AOS.refresh();
+                window.scrollTo(0, 0);
+            }
+        }
+
+        // Handlers
+        function runRadarAnalysis() {
+            const val = document.getElementById('radar-input').value;
+            if(!val) return;
+            callGemini(`Analise a empresa ${val} como inteligência de vendas. Mapeie: 1. ICP, 2. Concorrentes e Fraquezas, 3. Três dores latentes, 4. Um icebreaker personalizado para o Head de Vendas.`, 'radar-btn', 'radar-output');
+        }
+
+        function runBDRPitch() {
+            const target = document.getElementById('bdr-target').value;
+            const prod = document.getElementById('bdr-product').value;
+            if(!target || !prod) return;
+            callGemini(`Crie um Kit de Abordagem para vender ${prod} para ${target}. Inclua: Linha de assunto épica, e-mail curto com técnica AIDA e mensagem de LinkedIn.`, 'bdr-btn', 'bdr-output');
+        }
+
+        function runAERebuttal() {
+            const obj = document.getElementById('ae-objection').value;
+            if(!obj) return;
+            callGemini(`O cliente deu a seguinte objeção: "${obj}". Crie uma rebatida usando a técnica de espelhamento e isolamento de dor. Seja curto e firme.`, 'ae-btn', 'ae-output');
+            document.getElementById('ae-audio-box').classList.remove('hidden');
+        }
+
+        function runOpsDiagnosis() {
+            const input = document.getElementById('ops-input').value;
+            if(!input) return;
+            callGemini(`Diagnóstico de Sales Ops: "${input}". Identifique o erro processual e sugira uma automação de CRM ou mudança de cadência técnica.`, 'ops-btn', 'ops-output');
+        }
+
+        function runVIAnalysis() {
+            const input = document.getElementById('vi-input').value;
+            if(!input) return;
+            callGemini(`Analise esta mensagem de venda interna: "${input}". Qual o tom do cliente? (Urgente, Curioso, Cético) e qual a melhor resposta curta para avançar no WhatsApp?`, 'vi-btn', 'vi-output');
+        }
+
+        window.onload = () => showView('dashboard-view');
+    </script>
+</body>
+</html>
